@@ -321,7 +321,7 @@ Here are some ways to extend text classification in your applications:
 - [Product Page](https://products.aspose.cloud/words/)
 - [Documentation](https://docs.aspose.cloud/words/)
 - [Live Demo](https://products.aspose.app/words/family)
-- [Swagger UI](https://reference.aspose.cloud/words/)
+- [API Reference](https://reference.aspose.cloud/words/)
 - [Blog](https://blog.aspose.cloud/category/words/)
 - [Free Support](https://forum.aspose.cloud/c/words/17)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)
