@@ -2,7 +2,7 @@
 title: Protect, Secure and Manage Word Document Access
 articleTitle: Document Protection
 linktitle: Document Protection
-type: docs
+
 url: /operations/protect/
 description: Add, remove or check document protection settings in Word files programmatically via Cloud REST API. Secure your documents with password protection.
 weight: 130

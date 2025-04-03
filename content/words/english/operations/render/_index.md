@@ -2,7 +2,7 @@
 title: Convert Word Document Elements to Images
 articleTitle: Document Rendering
 linktitle: Document Rendering
-type: docs
+
 url: /operations/render/
 description: Convert Word document pages and elements into images programmatically via Cloud API. Transform pages, paragraphs, tables and more into PNG, JPEG and other formats.
 weight: 150

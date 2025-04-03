@@ -2,7 +2,7 @@
 title: Automatically Classify Word Documents into Categories
 articleTitle: Document Classification
 linktitle: Document Classification
-type: docs
+
 url: /operations/classify-document/
 description: Learn how to automatically categorize Word documents based on content using Aspose.Words Cloud API with various taxonomies.
 weight: 10

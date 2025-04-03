@@ -1,7 +1,7 @@
 ---
 title: Aspose.Words Cloud Tutorials - Master Document Elements
 linktitle: Document Element Tutorials
-type: docs
+
 description: Learn to manipulate Word document elements with step-by-step tutorials covering bookmarks, tables, images, styles and more using Aspose.Words Cloud API.
 weight: 40
 url: /elements/

@@ -2,7 +2,7 @@
 title: Working with Comments in Word Documents using Aspose.Words Cloud
 articleTitle: Working with Comments
 linktitle: Comments
-type: docs
+
 url: /elements/comments/
 description: Learn how to add, retrieve, update, and delete comments in Word documents programmatically using Aspose.Words Cloud API.
 weight: 20

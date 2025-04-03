@@ -2,7 +2,7 @@
 title: Combine Multiple Documents Into One File
 articleTitle: Document Merging
 linktitle: Document Merging
-type: docs
+
 url: /operations/merge/
 description: Merge multiple Word, PDF documents into a single file programmatically via Cloud API. Combine reports, chapters, and sections while preserving formatting.
 weight: 120

@@ -1,7 +1,7 @@
 ---
 title: Managing Document Properties in Word Documents Using Aspose.Words Cloud
 linktitle: Document Properties
-type: docs
+
 description: Learn how to programmatically read, add, update, and delete document properties and metadata in Word documents using Aspose.Words Cloud API.
 weight: 40
 url: /elements/document-properties/

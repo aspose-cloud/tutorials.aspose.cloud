@@ -2,7 +2,7 @@
 title: Automatically Classify Text into Categories
 articleTitle: Text Classification
 linktitle: Text Classification
-type: docs
+
 url: /operations/classify-text/
 description: Learn how to categorize raw text snippets without documents using Aspose.Words Cloud API with IAB taxonomy and sentiment analysis.
 weight: 20

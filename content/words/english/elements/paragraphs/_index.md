@@ -2,7 +2,7 @@
 title: Mastering Paragraph Operations in Word Documents with Aspose.Words Cloud
 articleTitle: Working with Paragraphs
 linktitle: Paragraphs
-type: docs
+
 url: /elements/paragraphs/
 description: Learn how to create, retrieve, update, and delete paragraphs in Word documents using Aspose.Words Cloud API.
 weight: 10

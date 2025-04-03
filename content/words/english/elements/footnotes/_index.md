@@ -2,7 +2,7 @@
 title: Working with Footnotes in Word Documents using Aspose.Words Cloud
 articleTitle: Working with Footnotes
 linktitle: Footnotes
-type: docs
+
 url: /elements/footnotes/
 description: Learn how to add, retrieve, update, and delete footnotes in Word documents programmatically using Aspose.Words Cloud API.
 weight: 40

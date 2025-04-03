@@ -2,7 +2,7 @@
 title: Remove All Macros from Word Documents Safely
 articleTitle: Remove Macros from Documents
 linktitle: Remove Macros
-type: docs
+
 url: /operations/remove-macros/
 description: Remove all macros from Word documents programmatically via Cloud API for security, compliance, and file size optimization reasons.
 weight: 140

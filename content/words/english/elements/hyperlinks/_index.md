@@ -2,7 +2,7 @@
 title: Create and Manage Hyperlinks in Word documents via Cloud API
 articleTitle: Working with Hyperlinks
 linktitle: Hyperlinks
-type: docs
+
 url: /elements/hyperlinks/
 description: Learn how to programmatically create, retrieve, and manage hyperlinks in Word documents using Aspose.Words Cloud API.
 weight: 20

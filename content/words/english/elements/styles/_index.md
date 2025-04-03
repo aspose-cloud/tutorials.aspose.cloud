@@ -2,7 +2,7 @@
 title: Efficient Document Formatting with Styles
 articleTitle: Efficient Document Formatting with Styles
 linktitle: Styles
-type: docs
+
 url: /elements/styles/
 description: Learn how to use document styles to apply consistent formatting, create professional documents, and streamline document production with Aspose.Words Cloud API.
 weight: 130

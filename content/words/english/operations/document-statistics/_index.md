@@ -1,7 +1,7 @@
 ---
 title: Get Document Statistics
 second_title: Aspose.Words Cloud Document Operations
-type: docs
+
 url: /operations/document-statistics/
 description: Learn how to retrieve word counts, page counts, and other statistics from Word documents using Aspose.Words Cloud API.
 weight: 40

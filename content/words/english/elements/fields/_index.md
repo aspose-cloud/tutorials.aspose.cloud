@@ -1,7 +1,7 @@
 ---
 title: Working with Fields in Word Documents Using Aspose.Words Cloud
 linktitle: Document Fields
-type: docs
+
 description: Learn how to programmatically insert, update, delete, and manage Word document fields like page numbers, dates, and formulas using Aspose.Words Cloud API.
 weight: 60
 url: /elements/fields/

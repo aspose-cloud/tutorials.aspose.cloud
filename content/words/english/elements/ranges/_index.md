@@ -2,7 +2,7 @@
 title: Understanding and Using Ranges in Word Documents
 articleTitle: Understanding and Using Ranges
 linktitle: Ranges
-type: docs
+
 url: /elements/ranges/
 description: Learn how to work with text ranges in Word documents to extract, modify, and manipulate specific content with Aspose.Words Cloud API.
 weight: 110

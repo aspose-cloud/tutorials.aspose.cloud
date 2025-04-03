@@ -2,7 +2,7 @@
 title: Mastering Document Sections in Word Documents
 articleTitle: Mastering Document Sections
 linktitle: Sections
-type: docs
+
 url: /elements/sections/
 description: Learn how to work with document sections to control page layouts, headers, footers, and document structure with Aspose.Words Cloud API.
 weight: 120

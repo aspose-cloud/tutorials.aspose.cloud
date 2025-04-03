@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorials for Word Document Operations via API
 second_title: Aspose Words Cloud Docs
-type: docs
+
 url: /operations/
 description: Learn to manipulate Word documents with tutorials for document comparison, compression, mail merge, and more using Aspose.Words Cloud API.
 weight: 50

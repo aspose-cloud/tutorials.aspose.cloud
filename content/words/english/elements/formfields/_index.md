@@ -2,7 +2,7 @@
 title: Working with FormFields in Word Documents - Complete Tutorial
 articleTitle: Working with FormFields in Word Documents
 linktitle: FormFields Tutorial
-type: docs
+
 url: /elements/formfields/
 description: Learn how to use the Aspose.Words Cloud API to work with FormFields in Word documents, including insertion, retrieval, modification, and deletion.
 weight: 10

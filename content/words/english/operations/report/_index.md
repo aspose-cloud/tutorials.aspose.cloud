@@ -2,7 +2,7 @@
 title: Generate Documents and Build Reports
 articleTitle: Document Generation and Reporting
 linktitle: Report Generation
-type: docs
+
 url: /operations/report/
 description: Create dynamic Word documents from templates and data sources with Aspose.Words Cloud API for automated document generation and reporting.
 weight: 90

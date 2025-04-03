@@ -2,7 +2,7 @@
 title: Working with Tables in Word Documents with Aspose.Words Cloud
 articleTitle: Working with Tables in Word Documents
 linktitle: Tables
-type: docs
+
 url: /elements/tables/
 description: Learn how to create, modify, and format tables in Word documents programmatically with Aspose.Words Cloud REST API.
 weight: 30

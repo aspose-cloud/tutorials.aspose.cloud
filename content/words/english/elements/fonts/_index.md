@@ -1,7 +1,7 @@
 ---
 title: Managing Fonts in Word Documents Using Aspose.Words Cloud
 linktitle: Fonts Management
-type: docs
+
 description: Learn how to programmatically work with fonts, get available fonts, reset font cache, and handle font substitutions in Word documents using Aspose.Words Cloud API.
 weight: 70
 url: /elements/fonts/

@@ -2,7 +2,7 @@
 title: Create New Word Documents Programmatically
 articleTitle: Document Creation
 linktitle: Document Creation
-type: docs
+
 url: /operations/create/
 description: Learn how to programmatically create new Word documents in various formats using Aspose.Words Cloud API for automated document generation.
 weight: 60

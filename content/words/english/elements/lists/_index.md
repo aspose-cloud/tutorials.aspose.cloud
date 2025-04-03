@@ -2,7 +2,7 @@
 title: Working with Lists in Word Documents
 articleTitle: Working with Lists
 linktitle: Lists
-type: docs
+
 url: /document-elements/lists/
 description: Learn how to create, modify, and format bulleted and numbered lists in Word documents programmatically using Aspose.Words Cloud API.
 weight: 120

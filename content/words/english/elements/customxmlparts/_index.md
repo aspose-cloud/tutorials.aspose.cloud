@@ -2,7 +2,7 @@
 title: Working with CustomXmlParts in Word Documents
 articleTitle: Working with CustomXmlParts
 linktitle: CustomXmlParts
-type: docs
+
 url: /document-elements/customxmlparts/
 description: Learn how to store, retrieve, and manage custom XML data in Word documents using Aspose.Words Cloud API for advanced document automation.
 weight: 30

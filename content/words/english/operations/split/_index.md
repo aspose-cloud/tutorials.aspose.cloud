@@ -2,7 +2,7 @@
 title: Splitting Word Documents into Multiple Parts
 articleTitle: Split Documents by Pages or Sections
 linktitle: Split Documents
-type: docs
+
 url: /operations/split/
 description: Learn how to programmatically split Word documents into multiple smaller files by pages or sections using Aspose.Words Cloud API.
 weight: 60

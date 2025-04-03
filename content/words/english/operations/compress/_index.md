@@ -2,7 +2,7 @@
 title: Compress Word Documents to Reduce File Size
 articleTitle: Document Compression
 linktitle: Document Compression
-type: docs
+
 url: /operations/compress/
 description: Learn how to compress Word documents by optimizing images and reducing file size using Aspose.Words Cloud API for better storage and sharing.
 weight: 40

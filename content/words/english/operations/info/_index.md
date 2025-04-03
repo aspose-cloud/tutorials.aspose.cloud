@@ -1,7 +1,7 @@
 ---
 title: Get Application Information
 second_title: Aspose.Words Cloud Document Operations
-type: docs
+
 url: /operations/info/
 description: Learn how to retrieve information about the Aspose.Words Cloud API service, such as version numbers and build dates.
 weight: 50

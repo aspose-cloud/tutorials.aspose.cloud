@@ -1,7 +1,7 @@
 ---
 title: Working with Drawing Objects in Word Documents Using Aspose.Words Cloud
 linktitle: Drawing Objects
-type: docs
+
 description: Learn how to programmatically manage images, shapes, charts and other visual elements in Word documents using Aspose.Words Cloud API.
 weight: 50
 url: /elements/drawing-objects/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Words Cloud Tutorials Manipulate Word Documents via API
 linktitle: Aspose.Words Cloud Tutorials
-type: docs
+
 description: Learn to create, edit, convert, and manipulate Word files with Aspose.Words Cloud REST API through practical, step-by-step tutorials with code examples.
 weight: 40
 url: /words/

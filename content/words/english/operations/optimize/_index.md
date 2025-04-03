@@ -2,7 +2,7 @@
 title: Optimize Word Documents for Different MS Word Versions
 articleTitle: Document Optimization
 linktitle: Document Optimization
-type: docs
+
 url: /operations/optimize/
 description: Apply content optimization options to make Word documents compatible with specific versions of Microsoft Word programmatically via Cloud API.
 weight: 10

@@ -2,7 +2,7 @@
 title: Managing Track Changes in Word Documents
 articleTitle: Accept or Reject Document Revisions
 linktitle: Track Changes
-type: docs
+
 url: /operations/track-changes/
 description: Learn how to programmatically manage tracked changes in Word documents using Aspose.Words Cloud API. Accept or reject revisions with simple API calls.
 weight: 40

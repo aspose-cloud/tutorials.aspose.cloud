@@ -2,7 +2,7 @@
 title: Working with Mathematical Equations in Word Documents
 articleTitle: Working with Math Objects
 linktitle: Math Objects
-type: docs
+
 url: /elements/math-objects/
 description: Learn how to insert, retrieve, and manipulate mathematical equations and formulas in Word documents using Aspose.Words Cloud API.
 weight: 130

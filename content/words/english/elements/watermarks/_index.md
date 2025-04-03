@@ -2,7 +2,7 @@
 title: Adding and Managing Watermarks in Word Documents with Aspose.Words Cloud
 articleTitle: Adding and Managing Watermarks in Word Documents
 linktitle: Watermarks
-type: docs
+
 url: /elements/watermarks/
 description: Learn how to programmatically add, modify, and remove text and image watermarks in Word documents using Aspose.Words Cloud REST API.
 weight: 40

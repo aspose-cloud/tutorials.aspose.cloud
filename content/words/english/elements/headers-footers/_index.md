@@ -2,7 +2,7 @@
 title: Master Headers and Footers in Word documents with Cloud API
 articleTitle: Working with Headers and Footers
 linktitle: Headers and Footers
-type: docs
+
 url: /elements/headers-footers/
 description: Learn how to programmatically add, modify, and manage headers and footers in Word documents using Aspose.Words Cloud API.
 weight: 10

@@ -2,7 +2,7 @@
 title: Working with Text in Word Documents using Aspose.Words Cloud
 articleTitle: Working with Text in Word Documents
 linktitle: Text
-type: docs
+
 url: /elements/text/
 description: Learn how to search, replace, and manipulate text in Word documents programmatically using Aspose.Words Cloud REST API.
 weight: 20

@@ -1,7 +1,7 @@
 ---
 title: Working with Bookmarks in Word Documents Using Aspose.Words Cloud
 linktitle: Bookmarks
-type: docs
+
 description: Learn how to programmatically create, navigate, and use bookmarks for document references and navigation in Word documents using Aspose.Words Cloud API.
 weight: 90
 url: /elements/bookmarks/

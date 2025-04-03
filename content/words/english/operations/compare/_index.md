@@ -2,7 +2,7 @@
 title: Compare Two Word Documents to Track Changes
 articleTitle: Document Comparison
 linktitle: Document Comparison
-type: docs
+
 url: /operations/compare/
 description: Learn how to compare two Word documents to identify text additions, deletions, and formatting changes using Aspose.Words Cloud API.
 weight: 30

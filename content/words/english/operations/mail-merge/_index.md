@@ -1,7 +1,7 @@
 ---
 title: Mail Merge Operations
 second_title: Aspose.Words Cloud Document Operations
-type: docs
+
 url: /operations/mail-merge/
 description: Learn how to perform mail merge operations to generate personalized documents at scale with Aspose.Words Cloud API.
 weight: 30
