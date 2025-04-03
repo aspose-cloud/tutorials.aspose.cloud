@@ -35,7 +35,7 @@ zh-hant = "asposecloud-zht"
 defaultContentLang = 'en'
 [languages]
   [languages.en]
-    contentDir = 'content/english'
+    contentDir = 'content/home/english'
     languageName = 'English'
 	  languageCode = "en"
     flag = "flag-us"
