@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Learn to Convert Markdown to PDF
+title:  Tutorial Learn to Convert Markdown to PDF
 type: docs
 url: /convert-file-formats-to-pdf/convert-markdown-to-pdf/
 weight: 130

@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Learn to Convert XFA-based PDF Forms to AcroForms
+title:  Tutorial Learn to Convert XFA-based PDF Forms to AcroForms
 type: docs
 url: /pdf-conversion/xfa-to-acroform/
 description: Learn how to convert XFA-based PDF forms to standard AcroForms in this step-by-step tutorial using Aspose.PDF Cloud API with examples in multiple languages.

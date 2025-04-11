@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Learn to Convert Web Pages to PDF"
+title:  "Tutorial Learn to Convert Web Pages to PDF"
 type: docs
 url: /convert-file-formats-to-pdf/web-to-pdf/
 weight: 20

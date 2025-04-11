@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Learn to Convert DOC and DOCX to PDF
+title:  Tutorial Learn to Convert DOC and DOCX to PDF
 type: docs
 url: /convert-file-formats-to-pdf/convert-doc-docx-to-pdf/
 weight: 100

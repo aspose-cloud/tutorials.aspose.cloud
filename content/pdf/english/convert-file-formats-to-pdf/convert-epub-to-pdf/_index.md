@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Learn to Convert EPUB to PDF
+title:  Tutorial Learn to Convert EPUB to PDF
 type: docs
 url: /convert-file-formats-to-pdf/convert-epub-to-pdf/
 weight: 10

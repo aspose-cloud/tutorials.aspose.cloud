@@ -1,5 +1,5 @@
 ---
-title: Tutorial: How to Convert PDF to TeX with Aspose.PDF Cloud
+title:  Tutorial How to Convert PDF to TeX with Aspose.PDF Cloud
 type: docs
 url: /pdf-conversion/pdf-to-tex/
 description: Learn how to convert PDF documents to TeX/LaTeX format for academic and scientific publishing with this step-by-step tutorial using Aspose.PDF Cloud API.

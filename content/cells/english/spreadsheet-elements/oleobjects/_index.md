@@ -1,5 +1,5 @@
 ---
-title: Working with OLE Objects: A Comprehensive Tutorial
+title:  Working with OLE Objects A Comprehensive Tutorial
 second_title: Aspose.Cells Cloud API Tutorial
 type: docs
 url: /spreadsheet-elements/oleobjects/

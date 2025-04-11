@@ -1,5 +1,5 @@
 ---
-title: Document Metadata and Properties: Complete Tutorial
+title:  Document Metadata and Properties Complete Tutorial
 second_title: Aspose.Cells Cloud API Tutorial
 type: docs
 url: /spreadsheet-elements/metadata/

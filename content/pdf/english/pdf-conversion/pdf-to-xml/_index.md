@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Learn to Convert PDF Documents to XML Format
+title:  Tutorial Learn to Convert PDF Documents to XML Format
 type: docs
 url: /pdf-conversion/pdf-to-xml/
 description: Learn how to convert PDF documents to structured XML format in this step-by-step tutorial using Aspose.PDF Cloud API with examples in multiple languages.

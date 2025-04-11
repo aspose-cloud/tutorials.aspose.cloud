@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Learn to Convert HTML to PDF
+title:  Tutorial Learn to Convert HTML to PDF
 type: docs
 url: /convert-file-formats-to-pdf/convert-html-to-pdf/
 weight: 50

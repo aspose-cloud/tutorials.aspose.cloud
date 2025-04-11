@@ -1,5 +1,5 @@
 ---
-title: Tutorial: How to Convert PDF to XPS Format
+title:  Tutorial How to Convert PDF to XPS Format
 type: docs
 url: /pdf-conversion/pdf-to-xps/
 description: Learn to convert PDF documents to XPS format with this step-by-step tutorial using Aspose.PDF Cloud API in multiple programming languages.

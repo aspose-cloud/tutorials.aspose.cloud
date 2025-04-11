@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Converting XML to PDF
+title:  Tutorial Converting XML to PDF
 type: docs
 url: /convert-file-formats-to-pdf/xml-to-pdf/
 weight: 120

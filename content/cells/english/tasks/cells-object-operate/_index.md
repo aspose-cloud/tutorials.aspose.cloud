@@ -1,5 +1,5 @@
 ---
-title: Comprehensive Tutorial: CellsObjectOperate Task
+title:  Comprehensive Tutorial CellsObjectOperate Task
 second_title: Aspose.Cells Cloud API Tutorial
 type: docs
 url: /tasks/cells-object-operate/

@@ -1,5 +1,5 @@
 ---
-title: Tutorial: How to Convert PDF to HTML Format
+title:  Tutorial How to Convert PDF to HTML Format
 type: docs
 url: /pdf-conversion/pdf-to-html/
 description: Learn to convert PDF documents to web-ready HTML with this step-by-step tutorial using Aspose.PDF Cloud API in multiple programming languages.
