@@ -97,7 +97,7 @@ Master the fundamental building blocks of document text with our paragraph tutor
 
 Efficiently work with specific document portions using our range tutorials. These guides show you how to target and manipulate continuous sections of content spanning multiple elements for precise document operations.
 
-[Learn more about Ranges →](/elements/range/)
+[Learn more about Ranges →](/elements/ranges/)
 
 ## Information Organization Tutorials
 
