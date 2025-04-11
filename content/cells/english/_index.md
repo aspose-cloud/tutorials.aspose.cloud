@@ -1,20 +1,20 @@
 ---
-title: Comprehensive PowerPoint REST API Developer Guide Tutorials
+title: Comprehensive Spreadsheet REST API Developer Guide Tutorials
 description: Comprehensive guide to Aspose.Cells Cloud REST APIs with tutorials, examples, and best practices for Excel file processing across all formats and versions.
 
 url: /cells/
 weight: 20
 ---
 
-# PowerPoint REST API Developer Guide
+# Spreadsheet REST API Developer Guide
 
-Welcome to the comprehensive developer guide for working with PowerPoint presentations through our REST API. This guide provides all the information you need to integrate, manipulate, and manage PowerPoint presentations programmatically in your applications.
+Welcome to the comprehensive developer guide for working with Spreadsheet worksheets through our REST API. This guide provides all the information you need to integrate, manipulate, and manage Spreadsheet worksheets programmatically in your applications.
 
 ## What You'll Learn
 
 This developer guide covers:
 
-- Authentication & Authorization: How to securely connect to the PowerPoint REST API
+- Authentication & Authorization: How to securely connect to the Spreadsheet REST API
 - Core Concepts: Understanding the fundamental architecture and objects
 - API Reference: Detailed documentation of all available endpoints
 - Common Operations: Step-by-step guides for frequent presentation tasks
@@ -23,7 +23,7 @@ This developer guide covers:
 
 ## Getting Started
 
-To begin working with the PowerPoint REST API:
+To begin working with the Spreadsheet REST API:
 
 1. [Spreadsheet Elements Tutorials](/cells/spreadsheet-elements/)
 Step-by-step tutorials for working with Excel spreadsheet elements using Aspose.Cells Cloud API. From basic cell operations to complex charts and filters.
