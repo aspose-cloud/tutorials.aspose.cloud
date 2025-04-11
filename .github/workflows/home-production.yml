@@ -8,11 +8,11 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'content/**'
+      - 'content/home/**'
   pull_request:
     branches: [ main ]
     paths:
-      - 'content/**'    
+      - 'content/home/**'    
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
