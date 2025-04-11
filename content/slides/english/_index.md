@@ -6,7 +6,7 @@ keywords:
 - presentation
 - REST API
 - cloud API
-type: docs
+
 url: /slides/
 weight: 20
 ---

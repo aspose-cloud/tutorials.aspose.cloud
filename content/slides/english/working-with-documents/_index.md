@@ -1,6 +1,6 @@
 ---
 title: Aspose.Slides Cloud API Document Working with Documents Tutorials
-type: docs
+
 url: /tutorials/working-with-documents/
 description: Learn how to create, convert, merge, and split PowerPoint presentations using Aspose.Slides Cloud API with step-by-step tutorials for all skill levels.
 keywords: PowerPoint, presentation, REST API, cloud API, tutorial

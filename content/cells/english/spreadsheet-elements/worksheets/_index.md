@@ -1,7 +1,7 @@
 ---
 title: Learn to Work with Excel Worksheets using Aspose.Cells Cloud API Tutorial
 second_title: Comprehensive Tutorial for Developers
-type: docs
+
 url: /spreadsheet-elements/worksheets/
 weight: 10
 description: This tutorial teaches you how to programmatically create, modify, and manage Excel worksheets using Aspose.Cells Cloud API with step-by-step examples.

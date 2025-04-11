@@ -2,7 +2,7 @@
 title: Working with Pivot Filters in Aspose.Cells Cloud Tutorial
 second_title: Aspose.Cells Cloud Document
 linktitle: Working with Pivot Filters
-type: docs
+
 url: /spreadsheet-elements/pivot-filters/
 description: Learn how to add and manage filters in Excel pivot tables to refine your data analysis using the Aspose.Cells Cloud API in this step-by-step tutorial.
 weight: 50

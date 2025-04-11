@@ -1,6 +1,6 @@
 ---
 title: Building Complex Animation Sequences with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/complex-animations/
 keywords: PowerPoint, presentation, animations, complex animations, advanced animations, tutorial, API REST
 description: Learn how to create sophisticated, multi-part animation sequences in PowerPoint presentations using Aspose.Slides Cloud API in this comprehensive step-by-step tutorial.

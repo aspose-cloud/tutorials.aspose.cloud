@@ -1,6 +1,6 @@
 ---
 title:  Tutorial Learn to Convert EPUB to PDF
-type: docs
+
 url: /convert-file-formats-to-pdf/convert-epub-to-pdf/
 weight: 10
 description: Learn how to convert EPUB e-books to PDF format using Aspose.PDF Cloud API in this beginner-friendly tutorial with step-by-step instructions.

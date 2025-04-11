@@ -2,7 +2,7 @@
 title: Managing File Versions Tutorial - Aspose.Slides Cloud API
 description: Learn to work with different versions of presentation files in cloud storage with this tutorial using Aspose.Slides Cloud API.
 keywords: PowerPoint, presentation, REST API, cloud API, file versions, version control, version history
-type: docs
+
 url: /files-folders-storage/storage-file-versions/
 weight: 40
 ---

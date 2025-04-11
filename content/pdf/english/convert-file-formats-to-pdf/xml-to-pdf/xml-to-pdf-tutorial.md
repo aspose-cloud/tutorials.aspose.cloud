@@ -1,6 +1,6 @@
 ---
 title:  Tutorial Converting XML to PDF
-type: docs
+
 url: /convert-file-formats-to-pdf/xml-to-pdf/
 weight: 120
 description: Learn to transform XML data into professional PDF documents with this step-by-step tutorial using Aspose.PDF Cloud API.

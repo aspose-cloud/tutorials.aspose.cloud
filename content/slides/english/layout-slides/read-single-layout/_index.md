@@ -1,6 +1,6 @@
 ---
 title: How to Read Information About a Single Layout Slide Tutorial
-type: docs
+
 url: /layout-slides/read-single-layout/
 weight: 20
 keywords: PowerPoint, presentation, REST API, cloud API, tutorial, layout slide, slide index

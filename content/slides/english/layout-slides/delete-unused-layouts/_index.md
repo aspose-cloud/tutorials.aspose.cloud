@@ -1,6 +1,6 @@
 ---
 title: How to Delete Unused Layout Slides Tutorial
-type: docs
+
 url: /layout-slides/delete-unused-layouts/
 keywords: PowerPoint, presentation, REST API, cloud API, tutorial, layout slide, delete layout, optimize, cleanup
 description: Learn how to delete unused layout slides from PowerPoint presentations to optimize file size using Aspose.Slides Cloud API in this developer tutorial.

@@ -2,7 +2,7 @@
 title: Hiding and Showing Columns with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Control Column Visibility in Excel Worksheets
 description: Step-by-step tutorial to hide and unhide columns in Excel worksheets using Aspose.Cells Cloud API. Learn to structure your data presentation for better readability.
-type: docs
+
 url: /spreadsheet-elements/columns-visibility/
 weight: 30
 keywords: Hide Excel columns, Unhide columns API, Column visibility, Show hidden columns, Excel column tutorial

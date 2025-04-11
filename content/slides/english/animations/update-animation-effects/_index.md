@@ -1,6 +1,6 @@
 ---
 title: Update Animation Effects with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/update-animation-effects/
 keywords: PowerPoint, presentation, animations, update animations, modify effects, tutorial, API REST
 description: Learn how to update and modify existing animation effects in PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial.

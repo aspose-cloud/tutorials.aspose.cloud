@@ -1,6 +1,6 @@
 ---
 title: Add Effects to Interactive Sequences with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/add-effect-interactive-sequence/
 keywords:
 PowerPoint, presentation, animations, interactive sequences, animation effects, tutorial, API REST

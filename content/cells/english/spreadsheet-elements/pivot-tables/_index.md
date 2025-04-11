@@ -2,7 +2,7 @@
 title: Getting Started with Pivot Tables in Aspose.Cells Cloud Tutorial
 second_title: Aspose.Cells Cloud Document
 linktitle: Getting Started with Pivot Tables
-type: docs
+
 url: /spreadsheet-elements/pivot-tables/
 description: Learn how to get started with pivot tables in Excel using Aspose.Cells Cloud API. This beginner tutorial shows how to retrieve pivot table information from worksheets.
 weight: 10

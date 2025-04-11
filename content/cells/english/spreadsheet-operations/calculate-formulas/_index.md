@@ -1,7 +1,7 @@
 ---
 title: Calculating Formulas in Excel Workbooks with Aspose.Cells Cloud API Tutorial
 second_title: Learn Formula Calculation and Recalculation
-type: docs
+
 url: /spreadsheet-operations/calculate-formulas/
 keywords: Excel formulas, calculate Excel formulas, recalculate workbook, Excel calculation, Aspose.Cells tutorial
 description: Learn how to calculate and recalculate formulas in Excel workbooks with this step-by-step Aspose.Cells Cloud API tutorial. Master formula operations in just 20 minutes.

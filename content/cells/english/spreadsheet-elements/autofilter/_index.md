@@ -2,7 +2,7 @@
 title: Creating Basic Auto-Filters with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Implement Excel Filtering Capabilities in the Cloud
 description: Step-by-step tutorial to add and manage auto-filters in Excel worksheets using Aspose.Cells Cloud API. Learn to filter data efficiently for better analysis.
-type: docs
+
 url: /spreadsheet-elements/autofilter/
 weight: 10
 keywords: Excel filter tutorial, Auto-filter tutorial, Aspose.Cells filter, Excel data filtering, Cloud API filter

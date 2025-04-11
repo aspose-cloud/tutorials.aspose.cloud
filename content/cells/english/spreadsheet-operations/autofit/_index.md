@@ -1,7 +1,7 @@
 ---
 title: Auto-fitting Rows and Columns in Excel with Aspose.Cells Cloud API Tutorial
 second_title: Learn Spreadsheet Optimization Techniques
-type: docs
+
 url: /spreadsheet-operations/autofit/
 keywords: Excel autofit, optimize spreadsheets, auto-size columns, auto-size rows, Excel formatting, Aspose.Cells tutorial
 description: Learn how to auto-fit rows and columns in Excel workbooks with this hands-on Aspose.Cells Cloud API tutorial. Master spreadsheet optimization in just 15 minutes.

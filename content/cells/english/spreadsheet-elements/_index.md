@@ -2,7 +2,7 @@
 title: Aspose.Cells Cloud API Spreadsheet Elements Tutorials
 second_title: Learn to Manipulate Excel Elements with Cloud API
 description: Step-by-step tutorials for working with Excel spreadsheet elements using Aspose.Cells Cloud API. From basic cell operations to complex charts and filters.
-type: docs
+
 url: /spreadsheet-elements/
 weight: 10
 keywords: Excel API tutorial, Cells API tutorial, Spreadsheet elements tutorial, Learn Excel API, Cloud Excel tutorial

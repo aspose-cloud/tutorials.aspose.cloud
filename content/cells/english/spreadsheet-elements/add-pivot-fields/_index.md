@@ -2,7 +2,7 @@
 title: Adding Pivot Fields to Your Pivot Table Tutorial
 second_title: Aspose.Cells Cloud Document
 linktitle: Adding Pivot Fields to Your Pivot Table
-type: docs
+
 url: /spreadsheet-elements/add-pivot-fields/
 keywords: Excel Pivot Table Fields, Add Pivot Fields, Excel Data Analysis, Aspose Cells Tutorial, REST API for Excel
 description: Learn how to add and manage pivot fields in your Excel pivot tables using the Aspose.Cells Cloud API in this step-by-step tutorial.

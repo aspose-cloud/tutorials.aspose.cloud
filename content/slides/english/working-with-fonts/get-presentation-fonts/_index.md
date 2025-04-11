@@ -1,6 +1,6 @@
 ---
 title: How to Get Presentation Fonts Tutorial
-type: docs
+
 url: /working-with-fonts/get-presentation-fonts/
 weight: 20
 keywords: PowerPoint, presentation, REST API, cloud API, font, presentation fonts, retrieve fonts, list fonts

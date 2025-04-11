@@ -1,6 +1,6 @@
 ---
 title: Creating Bubble Charts with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /working-with-charts/create-bubble-chart/
 weight: 50
 keywords: PowerPoint, presentation, REST API, cloud API, bubble chart, 3D chart, data visualization, tutorial

@@ -1,6 +1,6 @@
 ---
 title: Learn to Convert TeX to PDF
-type: docs
+
 url: /convert-file-formats-to-pdf/tex-to-pdf/
 weight: 30
 description: Learn to transform TeX typesetting files into perfect PDF documents with this step-by-step tutorial using Aspose.PDF Cloud API.

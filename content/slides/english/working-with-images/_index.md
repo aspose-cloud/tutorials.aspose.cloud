@@ -1,6 +1,6 @@
 ---
 title:  Aspose.Slides Cloud API Tutorial Working with Images
-type: docs
+
 url: /working-with-images/
 description: Learn to extract, modify, and replace images in PowerPoint presentations using Aspose.Slides Cloud API with step-by-step REST API tutorials.
 keywords: PowerPoint, presentation, REST API, cloud API, image, tutorial

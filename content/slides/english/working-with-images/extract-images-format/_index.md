@@ -1,7 +1,7 @@
 ---
 title: How to Extract Images in Specific Formats from PowerPoint Tutorial
 keywords: PowerPoint, presentation, REST API, cloud API, image, extract image, image format, convert image, JPEG, PNG, GIF, tutorial
-type: docs
+
 url: /working-with-images/extract-images-format/
 weight: 40
 description: Learn to extract and convert PowerPoint presentation images to specific formats like JPEG, PNG, or GIF using Aspose.Slides Cloud API.

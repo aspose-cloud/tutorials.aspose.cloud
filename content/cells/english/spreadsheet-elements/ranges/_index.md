@@ -1,7 +1,7 @@
 ---
 title: How to Work with Ranges in Excel using Aspose.Cells Cloud API Tutorial
 second_title: Master Cell Range Operations for Effective Spreadsheet Management
-type: docs
+
 url: /spreadsheet-elements/ranges/
 weight: 30
 description: Learn to manipulate Excel cell ranges programmatically with Aspose.Cells Cloud API. This tutorial covers copying, merging, formatting, and updating cell ranges.

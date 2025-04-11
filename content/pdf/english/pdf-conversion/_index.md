@@ -1,6 +1,6 @@
 ---
 title: Aspose.PDF Cloud API - Convert PDF to Other File Formats Tutorials
-type: docs
+
 url: /pdf-conversion/
 description: Learn how to convert PDF documents to various formats with these step-by-step tutorials for Aspose.PDF Cloud API. Perfect for developers of all skill levels.
 weight: 20

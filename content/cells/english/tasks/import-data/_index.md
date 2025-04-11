@@ -1,7 +1,7 @@
 ---
 title: Learn to Work with ImportData Task
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /tasks/import-data/
 keywords: REST API, task, import data, spreadsheets, excel, tutorial, Learn Excel, Office Cloud, REST API, Spreadsheet, Tutorial, ImportData, Data Import
 description: Learn how to import data into Excel files using Aspose.Cells Cloud API ImportData task with practical examples and step-by-step guidance.

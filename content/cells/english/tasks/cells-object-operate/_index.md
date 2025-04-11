@@ -1,7 +1,7 @@
 ---
 title:  Comprehensive Tutorial CellsObjectOperate Task
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /tasks/cells-object-operate/
 keywords: REST API, Excel objects, spreadsheets, charts, pivot tables, Excel, Office Cloud, REST API, Spreadsheet, Tutorial, Chart, Shape, ListObject,
 description: Learn to manipulate Excel objects using Aspose.Cells Cloud API's CellsObjectOperate task with step-by-step examples for charts, shapes, and more.

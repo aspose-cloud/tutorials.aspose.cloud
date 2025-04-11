@@ -1,6 +1,6 @@
 ---
 title: Working with Charts in Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /working-with-charts/
 weight: 120
 keywords: PowerPoint, presentation, REST API, cloud API, chart, tutorial

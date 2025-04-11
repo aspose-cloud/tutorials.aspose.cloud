@@ -1,7 +1,7 @@
 ---
 title: Importing Array Data into Excel with Aspose.Cells Cloud API Tutorial
 second_title: Complete Developer Guide
-type: docs
+
 url: /spreadsheet-operations/import-array/
 description: Learn how to import various array types (integer, string, double, and multi-dimensional) into Excel worksheets using Aspose.Cells Cloud REST API in this step-by-step tutorial.
 weight: 10

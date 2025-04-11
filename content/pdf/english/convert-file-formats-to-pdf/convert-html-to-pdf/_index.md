@@ -1,6 +1,6 @@
 ---
 title:  Tutorial Learn to Convert HTML to PDF
-type: docs
+
 url: /convert-file-formats-to-pdf/convert-html-to-pdf/
 weight: 50
 description: Master HTML to PDF conversion with this step-by-step tutorial using Aspose.PDF Cloud API. Learn to control page dimensions, margins, and orientation.

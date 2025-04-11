@@ -1,6 +1,6 @@
 ---
 title: How to Read Information About All Layout Slides Tutorial
-type: docs
+
 url: /layout-slides/read-all-layouts/
 weight: 10
 keywords: PowerPoint, presentation, REST API, cloud API, tutorial, layout slides, read layouts

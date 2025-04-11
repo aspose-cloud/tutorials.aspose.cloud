@@ -1,7 +1,7 @@
 ---
 title:  Working with OLE Objects A Comprehensive Tutorial
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /spreadsheet-elements/oleobjects/
 description: Learn how to add, retrieve, update, convert, and delete OLE objects in Excel files using Aspose.Cells Cloud API in this step-by-step tutorial.
 weight: 40

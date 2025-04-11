@@ -1,6 +1,6 @@
 ---
 title: Set Basic Animations with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/set-animation/
 keywords: PowerPoint, presentation, animations, add animations, create animations, tutorial, API REST
 description: Learn how to add and configure animations for shapes and text in PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial.

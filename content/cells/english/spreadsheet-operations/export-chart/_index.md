@@ -1,7 +1,7 @@
 ---
 title: Exporting Excel Charts to Different Formats with Aspose.Cells Cloud API Tutorial
 second_title: Complete Developer Guide
-type: docs
+
 url: /spreadsheet-operations/export-chart/
 description: Learn how to export Excel charts to various image formats using Aspose.Cells Cloud REST API in this step-by-step tutorial with code examples.
 weight: 10

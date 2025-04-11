@@ -1,6 +1,6 @@
 ---
 title: Delete Effects from an Interactive Sequence Tutorial
-type: docs
+
 url: /animations/delete-effects/
 description: Learn how to delete specific animation effects from interactive sequences in PowerPoint using Aspose.Slides Cloud API with step-by-step guides and code examples.
 keywords: PowerPoint, presentation, REST API, cloud API, animation, remove animation, shape animation, text animation, tutorial

@@ -1,6 +1,6 @@
 ---
 title: How to Replace Presentation Fonts Tutorial
-type: docs
+
 url: /working-with-fonts/replace-presentation-fonts/
 weight: 70
 keywords: PowerPoint, presentation, REST API, cloud API, font presentation, replace fonts, font, substitution

@@ -1,7 +1,7 @@
 ---
 title: Converting Excel Files to PDF with Aspose.Cells Cloud API Tutorial
 second_title: Complete Developer Guide
-type: docs
+
 url: /spreadsheet-operations/convert/
 description: Learn how to convert Excel files to PDF using Aspose.Cells Cloud REST API in this step-by-step tutorial with code examples in multiple languages.
 weight: 10

@@ -1,7 +1,7 @@
 ---
 title: Managing Shapes in Excel with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Add, Manipulate, and Export Shapes Programmatically
-type: docs
+
 url: /spreadsheet-elements/shapes/
 weight: 40
 description: This step-by-step tutorial teaches you how to add, modify, delete, and export shapes in Excel spreadsheets using Aspose.Cells Cloud API.

@@ -1,7 +1,7 @@
 ---
 title: Batch Converting Multiple Excel Files with Aspose.Cells Cloud API Tutorial
 second_title: Complete Developer Guide
-type: docs
+
 url: /spreadsheet-operations/batch/
 description: Learn how to batch convert multiple Excel files to various formats using Aspose.Cells Cloud REST API in this step-by-step tutorial with practical code examples.
 weight: 10

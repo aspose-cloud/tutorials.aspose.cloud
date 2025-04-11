@@ -1,7 +1,7 @@
 ---
 title: Finding and Replacing Text in Excel Files Tutorial
 second_title: Master Text Manipulation in Spreadsheets
-type: docs
+
 url: /spreadsheet-operations/text/
 keywords: Find text in Excel, Replace text in Excel, Excel text manipulation, search Excel sheets, Aspose.Cells tutorial
 description: Learn how to find and replace text in Excel workbooks and worksheets with this hands-on Aspose.Cells Cloud API tutorial.

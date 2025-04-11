@@ -1,7 +1,7 @@
 ---
 title: Repairing Corrupt Excel Files with Aspose.Cells Cloud API Tutorial
 second_title: Learn Data Recovery and File Restoration
-type: docs
+
 url: /spreadsheet-operations/repair/
 keywords: Excel repair, fix corrupt Excel, recover Excel data, repair XLSX, repair XLS, Aspose.Cells tutorial
 description: Learn how to repair and recover data from corrupt Excel files with this hands-on Aspose.Cells Cloud API tutorial. Master file recovery in just 20 minutes.

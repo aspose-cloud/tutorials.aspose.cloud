@@ -1,7 +1,7 @@
 ---
 title: Merging Multiple Excel Files with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Combine Spreadsheets in the Cloud
-type: docs
+
 url: /spreadsheet-operations/merge/
 keywords: Merge Excel files, combine spreadsheets, join Excel workbooks, Excel consolidation, Aspose.Cells Cloud
 description: Learn to merge multiple Excel workbooks into a single file with this hands-on tutorial for Aspose.Cells Cloud API.

@@ -1,6 +1,6 @@
 ---
 title: Configuring Chart Data Sources with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /working-with-charts/chart-data-source/
 weight: 70
 keywords: PowerPoint, presentation, REST API, cloud API, chart, data source, workbook, literals, chart data

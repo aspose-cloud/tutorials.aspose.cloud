@@ -1,6 +1,6 @@
 ---
 title: Learn to Set Embedded Fonts Tutorial
-type: docs
+
 url: /working-with-fonts/set-embedded-fonts/
 weight: 40
 keywords: PowerPoint, presentation, REST API, cloud API, font, embedded fonts

@@ -1,6 +1,6 @@
 ---
 title: How to Replace Images in PowerPoint Presentations Tutorial
-type: docs
+
 url: /working-with-images/replace-an-image/
 description: Step-by-step tutorial to learn how to programmatically replace images in PowerPoint presentations using Aspose.Slides Cloud API.
 keywords: PowerPoint, presentation, REST API, cloud API, image, replace image, update presentation, tutorial

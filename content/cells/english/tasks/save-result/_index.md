@@ -1,7 +1,7 @@
 ---
 title: Guide to SaveResult Task Operations
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /tasks/save-result/
 keywords: REST API, task, save result, cloud storage, excel, tutorial, Learn Excel, Office Cloud, REST API, Spreadsheet, Tutorial, SaveResult, Cloud Storage
 description: Learn how to save processing results from Aspose.Cells Cloud API tasks to cloud storage or return them in your response with step-by-step examples.

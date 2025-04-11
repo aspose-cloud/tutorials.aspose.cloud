@@ -1,6 +1,6 @@
 ---
 title: Learn to Use Custom Fonts with fontsFolder Parameter Tutorial
-type: docs
+
 url: /working-with-fonts/custom-fonts/
 keywords: PowerPoint, presentation, REST API, cloud API, font, custom fonts, fontsFolder
 description: Learn how to use custom fonts in your PowerPoint presentations with Aspose.Slides Cloud API. This step-by-step tutorial shows how to specify custom font folders.

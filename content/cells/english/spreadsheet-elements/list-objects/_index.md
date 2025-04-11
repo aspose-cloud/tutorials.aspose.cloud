@@ -1,7 +1,7 @@
 ---
 title: List Objects and Tables Tutorial
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /spreadsheet-elements/list-objects/
 description: Learn to create, retrieve, update, and manipulate tables (list objects) in Excel worksheets using Aspose.Cells Cloud API in this step-by-step tutorial.
 weight: 50

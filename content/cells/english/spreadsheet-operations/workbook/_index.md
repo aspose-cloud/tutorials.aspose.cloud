@@ -1,7 +1,7 @@
 ---
 title: How to Create an Excel Workbook with Aspose.Cells Cloud API Tutorial
 second_title: Learn Excel File Creation in the Cloud
-type: docs
+
 url: /spreadsheet-operations/workbook/
 keywords: Create Excel file, Excel API Tutorial, Create workbook, Empty Excel file, Aspose.Cells Cloud
 description: Learn how to create Excel workbooks programmatically with this step-by-step tutorial for Aspose.Cells Cloud API.

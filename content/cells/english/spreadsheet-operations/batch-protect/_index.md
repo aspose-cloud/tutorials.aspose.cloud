@@ -1,7 +1,7 @@
 ---
 title: Batch Protecting Multiple Excel Files with Aspose.Cells Cloud API Tutorial
 second_title: Complete Developer Guide
-type: docs
+
 url: /spreadsheet-operations/batch-protect/
 description: Learn how to secure multiple Excel files at once using batch protection operations with Aspose.Cells Cloud REST API in this comprehensive step-by-step tutorial.
 weight: 20

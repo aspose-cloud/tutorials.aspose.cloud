@@ -1,6 +1,6 @@
 ---
 title:  Tutorial How to Convert PDF to Microsoft Word Format
-type: docs
+
 url: /pdf-conversion/pdf-to-word/
 description: Learn to convert PDF documents to editable Word formats (DOC/DOCX) with this step-by-step tutorial using Aspose.PDF Cloud API.
 weight: 10

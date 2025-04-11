@@ -1,7 +1,7 @@
 ---
 title: Working with Smart Markers in Excel using Aspose.Cells Cloud API Tutorial
 second_title: Learn Dynamic Data Population Techniques
-type: docs
+
 url: /spreadsheet-operations/smart-markers/
 keywords: Excel Smart Markers, data population, Excel templates, dynamic reports, Aspose.Cells tutorial
 description: Learn how to use Smart Markers to dynamically populate Excel templates with data using Aspose.Cells Cloud API in this comprehensive tutorial. Master template-based reporting in just 30 minutes.

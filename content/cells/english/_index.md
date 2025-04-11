@@ -1,7 +1,7 @@
 ---
 title: Comprehensive PowerPoint REST API Developer Guide Tutorials
 description: Comprehensive guide to Aspose.Cells Cloud REST APIs with tutorials, examples, and best practices for Excel file processing across all formats and versions.
-type: docs
+
 url: /cells/
 weight: 20
 ---

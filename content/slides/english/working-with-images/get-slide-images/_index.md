@@ -1,6 +1,6 @@
 ---
 title: How to Get Image Information from a Specific PowerPoint Slide Tutorial
-type: docs
+
 url: /working-with-images/get-slide-images/
 description: Step-by-step tutorial on extracting image information from specific slides in PowerPoint presentations using Aspose.Slides Cloud API.
 keywords: PowerPoint, presentation, REST API, cloud API, slide, image, image metadata, 

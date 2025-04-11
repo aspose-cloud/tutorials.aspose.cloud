@@ -1,6 +1,6 @@
 ---
 title: Add Effects to a Main Sequence with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/add-effect-main-sequence/
 keywords: PowerPoint, presentation, animations, main sequence, animation effects, tutorial, API REST
 description: Learn how to add animation effects to the main sequence of PowerPoint slides using Aspose.Slides Cloud API in this step-by-step tutorial.

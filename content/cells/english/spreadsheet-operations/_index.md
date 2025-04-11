@@ -1,7 +1,7 @@
 ---
 title: Aspose.Cells Cloud API Spreadsheet-Operations Tutorials
 second_title: Comprehensive Learning Guide
-type: docs
+
 url: /spreadsheet-operations/
 description: Step-by-step tutorials for Aspose.Cells Cloud API Spreadsheet Operations. Learn from basic to advanced Excel file manipulation with our hands-on guides.
 weight: 100

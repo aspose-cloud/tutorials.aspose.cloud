@@ -1,6 +1,6 @@
 ---
 title: Learn to Compress Embedded Fonts Tutorial
-type: docs
+
 url: /working-with-fonts/compress-embedded-fonts/
 keywords: PowerPoint, presentation, REST API, cloud API, font, embedded fonts, compress fonts, optimize, file size
 description: Learn how to compress embedded fonts in PowerPoint presentations to reduce file size while maintaining visual quality using Aspose.Slides Cloud API.

@@ -1,6 +1,6 @@
 ---
 title: How to Copy a Master Slide Between Presentations Tutorial
-type: docs
+
 url: /working-with-master-slides/copy-a-master-slide/
 weight: 30
 description: Learn how to copy master slides between PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial for template reuse.

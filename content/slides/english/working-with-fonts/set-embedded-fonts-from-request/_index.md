@@ -1,6 +1,6 @@
 ---
 title: How to Set Embedded Fonts from a Request Tutorial
-type: docs
+
 url: /working-with-fonts/set-embedded-fonts-from-request/
 weight: 50
 keywords: PowerPoint, presentation, REST API, cloud API, font, embedded fonts, custom fonts, font file, tutorial

@@ -1,7 +1,7 @@
 ---
 title: Page Breaks Tutorial for Excel Documents
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /spreadsheet-elements/pagebreaks/
 description: Learn how to add, retrieve, and delete horizontal and vertical page breaks in Excel files using Aspose.Cells Cloud API in this step-by-step tutorial.
 weight: 30

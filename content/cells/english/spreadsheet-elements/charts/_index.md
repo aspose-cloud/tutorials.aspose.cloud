@@ -2,7 +2,7 @@
 title: Creating Basic Charts with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Create and Customize Excel Data Visualizations in the Cloud
 description: Step-by-step tutorial to create attractive charts in Excel worksheets using Aspose.Cells Cloud API. Learn to visualize your data effectively with various chart types.
-type: docs
+
 url: /tutorials/spreadsheet-elements/charts/
 weight: 10
 keywords: Excel chart tutorial, Create Excel charts, Data visualization API, Bar chart Excel, Pie chart Excel, Line chart tutorial

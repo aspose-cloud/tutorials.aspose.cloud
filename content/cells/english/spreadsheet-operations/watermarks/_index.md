@@ -1,7 +1,7 @@
 ---
 title: Adding Watermarks to Excel Files with Aspose.Cells Cloud API Tutorial
 second_title: Learn Document Branding and Security Techniques
-type: docs
+
 url: /spreadsheet-operations/watermarks/
 keywords: Excel watermark, add watermark to spreadsheet, Excel document branding, confidential watermark, Aspose.Cells tutorial
 description: Learn how to add text and image watermarks to Excel files with this comprehensive Aspose.Cells Cloud API tutorial. Master document branding in just 15 minutes.

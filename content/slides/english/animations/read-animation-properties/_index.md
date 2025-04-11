@@ -1,6 +1,6 @@
 ---
 title: Read Animation Properties with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/read-animation-properties/
 keywords: PowerPoint, presentation, animations, read animations, tutorial, API REST
 description: Learn how to read and retrieve animation properties from PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial.

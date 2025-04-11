@@ -1,7 +1,7 @@
 ---
 title: Learn to Work with Pictures in Excel Files
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /spreadsheet-elements/pictures/
 description: Tutorial on how to add, retrieve, update, and delete pictures in Excel worksheets using Aspose.Cells Cloud API.
 weight: 10

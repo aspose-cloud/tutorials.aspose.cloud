@@ -1,7 +1,7 @@
 ---
 title: SmartMarker Task Tutorial for Template-Based Document Generation
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /tasks/smart-marker/
 keywords: REST API, task, smartmarker, template, spreadsheets, excel, tutorial, Learn Excel, Office Cloud, REST API, Spreadsheet, Tutorial, SmartMarker, Template, Report Generation
 description: Learn how to generate Excel documents from templates using Aspose.Cells Cloud API's SmartMarker task with data binding and practical examples.

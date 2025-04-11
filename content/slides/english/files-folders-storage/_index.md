@@ -2,7 +2,7 @@
 title: Aspose.Slides Cloud API File, Folder, and Storage Management Tutorials
 description: Learn to manage files, folders, and storage with Aspose.Slides Cloud API in this comprehensive tutorial series for developers.
 keywords: PowerPoint, presentation, REST API, cloud API, cloud storage, file storage
-type: docs
+
 url: /files-folders-storage/
 weight: 110
 ---

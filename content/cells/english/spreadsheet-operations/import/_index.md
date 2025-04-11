@@ -1,7 +1,7 @@
 ---
 title: Importing CSV Data into Excel Worksheets with Aspose.Cells Cloud API Tutorial
 second_title: Complete Developer Guide
-type: docs
+
 url: /spreadsheet-operations/import/
 description: Learn how to import CSV data into Excel worksheets using Aspose.Cells Cloud REST API in this hands-on tutorial with code examples in multiple languages.
 weight: 10

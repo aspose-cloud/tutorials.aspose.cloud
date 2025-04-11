@@ -2,7 +2,7 @@
 title: Basic Conditional Formatting with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Highlight Important Data in Excel Worksheets
 description: Step-by-step tutorial to implement conditional formatting rules in Excel using Aspose.Cells Cloud API. Learn to highlight cells based on their values.
-type: docs
+
 url: /spreadsheet-elements/conditional-formatting/
 weight: 10
 keywords: Excel conditional formatting, Format conditions API, Highlight cells API, Excel data visualization, Conditional formatting tutorial

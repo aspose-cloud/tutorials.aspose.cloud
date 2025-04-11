@@ -1,7 +1,7 @@
 ---
 title: Managing Rows in Excel with Aspose.Cells Cloud API Tutorial
 second_title: Step-by-Step Guide for Row Operations
-type: docs
+
 url: /spreadsheet-elements/rows/
 weight: 20
 description: Learn to add, delete, hide, unhide, group, and format rows in Excel spreadsheets using Aspose.Cells Cloud API in this comprehensive developer tutorial.

@@ -1,6 +1,6 @@
 ---
 title: Uploading Files Tutorial - Aspose.Slides Cloud API
-type: docs
+
 url: /files-folders-storage/files-upload/
 weight: 10
 description: Learn to upload presentations to cloud storage with this step-by-step tutorial using Aspose.Slides Cloud API.

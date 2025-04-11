@@ -1,6 +1,6 @@
 ---
 title: Creating Paragraph-Level Animations with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/paragraph-animation/
 keywords: PowerPoint, presentation, animations, paragraph animations, text animations, tutorial, API REST
 description: Learn how to create and manage paragraph-level animations in PowerPoint presentations using Aspose.Slides Cloud API in this comprehensive step-by-step tutorial.

@@ -2,7 +2,7 @@
 title: Working with Cell Comments using Aspose.Cells Cloud API Tutorial
 second_title: Learn to Add, Update, and Manage Comments for Better Spreadsheet Collaboration
 description: Step-by-step tutorial to work with cell comments in Excel worksheets using Aspose.Cells Cloud API. Learn to enhance your spreadsheets with notes and feedback.
-type: docs
+
 url: /spreadsheet-elements/comments/
 weight: 10
 keywords: Excel comments tutorial, Add cell comments, Update comments API, Manage Excel comments, Spreadsheet collaboration

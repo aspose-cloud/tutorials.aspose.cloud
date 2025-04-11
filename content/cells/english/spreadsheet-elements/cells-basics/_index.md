@@ -2,7 +2,7 @@
 title: Working with Cells and Cell Data using Aspose.Cells Cloud API Tutorial
 second_title: Learn to Read, Write and Manage Excel Cell Data in the Cloud
 description: Step-by-step tutorial to master basic cell operations with Aspose.Cells Cloud API. Learn to read cell values, get cell information, and handle different data types.
-type: docs
+
 url: /spreadsheet-elements/cells-basics/
 weight: 10
 keywords: Excel cell tutorial, Read Excel cells, Get cell data API, Cell operations tutorial, Aspose.Cells API tutorial

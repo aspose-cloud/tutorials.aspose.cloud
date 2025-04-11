@@ -1,6 +1,6 @@
 ---
 title: Step-by-Step Guide to Convert SVG to PDF
-type: docs
+
 url: /convert-file-formats-to-pdf/svg-to-pdf/
 weight: 90
 description: Learn how to convert SVG files to PDF documents in this developer tutorial using Aspose.PDF Cloud API with practical code examples.

@@ -1,6 +1,6 @@
 ---
 title: Delete All Animations from a PowerPoint Slide Tutorial
-type: docs
+
 url: /animations/delete-animations/
 description: Remove all animations from a PowerPoint slide using Aspose.Slides Cloud API. Learn how to simplify presentations with step-by-step code examples.
 keywords: PowerPoint, presentation, REST API, cloud API, animation, remove animation, delete animation, clear animations, tutorial

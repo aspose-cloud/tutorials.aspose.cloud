@@ -1,7 +1,7 @@
 ---
 title: Assembling Data in Excel with Aspose.Cells Cloud API Tutorial
 second_title: Complete Developer Guide
-type: docs
+
 url: /spreadsheet-operations/assembly/
 description: Learn how to automate Excel report generation by assembling data into templates using Aspose.Cells Cloud REST API in this comprehensive tutorial.
 weight: 10

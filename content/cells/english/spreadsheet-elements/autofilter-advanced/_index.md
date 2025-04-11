@@ -2,7 +2,7 @@
 title: Advanced Filtering Techniques with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Master Complex Data Filtering in Excel
 description: Step-by-step tutorial to implement complex filtering techniques in Excel worksheets using Aspose.Cells Cloud API. Learn to filter by dates, custom criteria, and more.
-type: docs
+
 url: /spreadsheet-elements/autofilter-advanced/
 weight: 20
 keywords: Excel advanced filter, Date filter tutorial, Custom filter Excel, Top 10 filter, Color filter Excel

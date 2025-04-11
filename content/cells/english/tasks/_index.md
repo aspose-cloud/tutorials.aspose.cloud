@@ -1,7 +1,7 @@
 ---
 title: Aspose.Cells Cloud API Document Tasks Tutorials
 second_title: Complete Developer Guide
-type: docs
+
 url: /tasks/
 keywords: REST API, task, spreadsheets, excel, tutorials, Learn Excel, Office Cloud,
 description: Comprehensive tutorials for Aspose.Cells Cloud API Tasks. Learn step-by-step how to manipulate Excel documents using our REST API tasks capabilities.

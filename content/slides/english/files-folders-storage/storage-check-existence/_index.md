@@ -2,7 +2,7 @@
 title: How to Check Storage Existence with Aspose.Slides Cloud API Tutorial
 description: Learn to verify storage existence before performing operations in this step-by-step tutorial using Aspose.Slides Cloud API.
 keywords: PowerPoint, presentation, REST API, cloud API, cloud storage, storage verification
-type: docs
+
 url: /files-folders-storage/storage/check-existence/
 weight: 10
 ---

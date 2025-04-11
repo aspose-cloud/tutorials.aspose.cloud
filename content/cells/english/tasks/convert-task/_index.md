@@ -1,7 +1,7 @@
 ---
 title: Convert Spreadsheets with Task API - Step by Step Tutorial
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /tasks/convert-task/
 keywords: REST API, convert, PDF, CSV, spreadsheets, excel, tutorial, Learn Excel, Office Cloud, REST API, Spreadsheet, PDF, CSV, HTML, Image, Convert, Tutorial
 description: Learn how to convert Excel files to different formats (PDF, CSV, HTML, images) using Aspose.Cells Cloud API's Convert task with practical examples.

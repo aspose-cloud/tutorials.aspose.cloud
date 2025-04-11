@@ -1,7 +1,7 @@
 ---
 title:  Document Metadata and Properties Complete Tutorial
 second_title: Aspose.Cells Cloud API Tutorial
-type: docs
+
 url: /spreadsheet-elements/metadata/
 description: Learn to read, add, update, and delete document properties and metadata in Excel files using Aspose.Cells Cloud API in this comprehensive tutorial.
 weight: 60

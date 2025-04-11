@@ -2,7 +2,7 @@
 title: Adding and Deleting Columns with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Modify Worksheet Structure by Managing Columns
 description: Step-by-step tutorial to add, delete, and manipulate columns in Excel worksheets using Aspose.Cells Cloud API. Learn to restructure spreadsheets efficiently.
-type: docs
+
 url: /spreadsheet-elements/columns-add-delete/
 weight: 10
 keywords: Excel columns tutorial, Add columns Excel, Delete columns API, Copy columns Excel, Modify worksheet structure

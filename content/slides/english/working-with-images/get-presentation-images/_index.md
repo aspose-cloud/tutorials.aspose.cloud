@@ -1,6 +1,6 @@
 ---
 title: Learn to Retrieve Image Information from a PowerPoint Presentation Tutorial
-type: docs
+
 url: /working-with-images/get-presentation-images/
 description: Tutorial to learn how to extract and analyze image metadata from PowerPoint presentations using Aspose.Slides Cloud API with step-by-step instructions.
 keywords: PowerPoint, presentation, REST API, cloud API, image, image metadata, tutorial, guide

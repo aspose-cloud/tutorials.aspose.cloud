@@ -1,6 +1,6 @@
 ---
 title: Learn to Convert XPS to PDF
-type: docs
+
 url: /convert-file-formats-to-pdf/xps-to-pdf/
 weight: 80
 description: Learn how to convert XPS documents to PDF format using Aspose.PDF Cloud API in this step-by-step tutorial for developers.

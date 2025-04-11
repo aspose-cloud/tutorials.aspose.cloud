@@ -1,6 +1,6 @@
 ---
 title: How to Extract Images from PowerPoint Presentations Tutorial
-type: docs
+
 url: /working-with-images/extract-images/
 description: Learn to extract and download images from PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial.
 keywords: PowerPoint, presentation, REST API, cloud API, image, extract image, download image, tutorial

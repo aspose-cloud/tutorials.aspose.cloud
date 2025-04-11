@@ -1,6 +1,6 @@
 ---
 title: Create Interactive Animation Sequences with Aspose.Slides Cloud API Tutorial
-type: docs
+
 url: /animations/create-interactive-sequence/
 keywords: PowerPoint, presentation, animations, interactive, click animations, trigger animations, tutorial, API REST
 description: Learn how to create interactive animation sequences triggered by clicking on shapes in PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial.

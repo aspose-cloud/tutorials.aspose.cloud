@@ -1,6 +1,6 @@
 ---
 title:  Tutorial Learn to Convert Markdown to PDF
-type: docs
+
 url: /convert-file-formats-to-pdf/convert-markdown-to-pdf/
 weight: 130
 description: Learn how to convert Markdown documents to professional PDF files using Aspose.PDF Cloud API with this comprehensive, step-by-step tutorial.
