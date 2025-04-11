@@ -30,7 +30,7 @@ Start with these fundamental tutorials to get familiar with basic spreadsheet el
 
 ### Managing Rows and Columns
 
-- [Tutorial: Adding and Deleting Columns](/spreadsheet-elements/columns/add-delete/) - Learn to add, delete, and manipulate columns in Excel worksheets using Aspose.Cells Cloud API. Learn to restructure spreadsheets efficiently.
+- [Tutorial: Adding and Deleting Columns](/spreadsheet-elements/columns-add-delete/) - Learn to add, delete, and manipulate columns in Excel worksheets using Aspose.Cells Cloud API. Learn to restructure spreadsheets efficiently.
 - [Tutorial: Hiding and Showing Columns](/spreadsheet-elements/columns-visibility/) - Step-by-step tutorial to hide and unhide columns in Excel worksheets using Aspose.Cells Cloud API. Learn to structure your data presentation for better readability.
 - [Tutorial: Managing Rows in Excel with Aspose.Cells Cloud API](/spreadsheet-elements/rows/) - Learn to add, delete, hide, unhide, group, and format rows in Excel spreadsheets using Aspose.Cells Cloud API in this comprehensive developer tutorial.
 
@@ -45,7 +45,7 @@ Start with these fundamental tutorials to get familiar with basic spreadsheet el
 
 ### Enhancing Data with Conditional Formatting
 
-- [Tutorial: Basic Conditional Formatting](/spreadsheet-elements/conditional-formattings/) - Step-by-step tutorial to implement conditional formatting rules in Excel using Aspose.Cells Cloud API. Learn to highlight cells based on their values.
+- [Tutorial: Basic Conditional Formatting](/spreadsheet-elements/conditional-formatting/) - Step-by-step tutorial to implement conditional formatting rules in Excel using Aspose.Cells Cloud API. Learn to highlight cells based on their values.
 
 ### Collaboration with Comments
 

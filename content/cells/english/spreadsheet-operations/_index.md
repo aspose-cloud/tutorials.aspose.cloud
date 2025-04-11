@@ -44,7 +44,6 @@ Take your skills to the next level with these advanced tutorials:
 - [Merging Multiple Excel Files with Aspose.Cells Cloud API Tutorial](/spreadsheet-operations/merge/) - Learn to merge multiple Excel workbooks into a single file with this hands-on tutorial for Aspose.Cells Cloud API.
 - [Converting Excel Files to PDF with Aspose.Cells Cloud API Tutorial](/spreadsheet-operations/convert/) - Learn how to convert Excel files to PDF using Aspose.Cells Cloud REST API in this step-by-step tutorial with code examples in multiple languages.
 - [Learn how to convert Excel files to PDF using Aspose.Cells Cloud REST API in this step-by-step tutorial with code examples in multiple languages.](/spreadsheet-operations/export-chart/) - Learn how to export Excel charts to various image formats using Aspose.Cells Cloud REST API in this step-by-step tutorial with code examples.
-- [Tutorial: Adding Digital Signatures to Excel Files](/spreadsheet-operations/digital-signatures/) - Learn to apply and verify digital signatures for document authenticity.
 
 ### Optimization and Repair
 

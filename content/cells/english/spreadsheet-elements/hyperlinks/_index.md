@@ -2,7 +2,7 @@
 title: Hyperlinks Management in Excel with Aspose.Cells Cloud API Tutorial
 second_title: Learn to Create, Modify and Delete Hyperlinks Programmatically
 type: docs
-url: /tutorials/spreadsheet-elements/hyperlinks/
+url: /spreadsheet-elements/hyperlinks/
 weight: 50
 description: Learn how to add, modify, and delete hyperlinks in Excel spreadsheets programmatically using Aspose.Cells Cloud API in this step-by-step tutorial.
 keywords: Excel hyperlinks tutorial, add hyperlink API, delete hyperlink tutorial, update hyperlinks Excel, URL links Excel API, Aspose.Cells Cloud tutorial, hyperlink management API
@@ -25,7 +25,7 @@ Before starting this tutorial, make sure you have:
 3. Basic knowledge of REST APIs and HTTP concepts
 4. Familiarity with Excel concepts, especially hyperlinks
 5. A development environment or API testing tool (like Postman, cURL, etc.)
-6. Completed the [Worksheets tutorial](/tutorials/spreadsheet-elements/worksheets/) (recommended but not required)
+6. Completed the [Worksheets tutorial](/spreadsheet-elements/worksheets/) (recommended but not required)
 
 ## Tutorial Steps
 
@@ -455,7 +455,7 @@ To reinforce your learning, try these exercises:
 
 ## Next Tutorial
 
-Ready to continue your learning journey? Check out our tutorial on [Creating and Managing PivotTables](/tutorials/spreadsheet-elements/pivot-tables/) to learn how to work with pivot tables for data analysis and reporting.
+Ready to continue your learning journey? Check out our tutorial on [Creating and Managing PivotTables](/spreadsheet-elements/pivot-tables/) to learn how to work with pivot tables for data analysis and reporting.
 
 ## Helpful Resources
 
