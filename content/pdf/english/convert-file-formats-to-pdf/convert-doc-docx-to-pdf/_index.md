@@ -1,6 +1,5 @@
 ---
 title:  Tutorial Learn to Convert DOC and DOCX to PDF
-
 url: /convert-file-formats-to-pdf/convert-doc-docx-to-pdf/
 weight: 100
 description: Learn to convert Microsoft Word documents (DOC/DOCX) to PDF with precise control over formatting using Aspose.PDF Cloud API in this comprehensive tutorial.
