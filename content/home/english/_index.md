@@ -15,7 +15,7 @@ Welcome to our comprehensive collection of tutorials for all Aspose Cloud produc
 ### [Aspose.Words Cloud Tutorials](./words/)
 Learn how to create, edit, convert, and manipulate Word documents programmatically. Our tutorials cover everything from basic text operations to complex document assembly, mail merge, and automated report generation without requiring Microsoft Office.
 
-### [Aspose.PDF Cloud Tutorials](#)
+### [Aspose.PDF Cloud Tutorials](./pdf/)
 Master PDF document creation and manipulation with our hands-on guides. Learn to generate, edit, secure, convert, and optimize PDF files for various business applications through simple API calls.
 
 ### [Aspose.Cells Cloud Tutorials](./cells/)
@@ -23,7 +23,7 @@ Discover how to work with spreadsheets in the cloud with our Excel-focused tutor
 
 ## Presentation & Visuals Tutorials
 
-### [Aspose.Slides Cloud Tutorials](#)
+### [Aspose.Slides Cloud Tutorials](./slides/)
 Create and manage PowerPoint presentations programmatically with our practical tutorials. Learn slide management, formatting, animation control, and conversion processes for building dynamic presentation solutions.
 
 ### [Aspose.Imaging Cloud Tutorials](#)
