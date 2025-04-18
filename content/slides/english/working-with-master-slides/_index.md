@@ -1,6 +1,5 @@
 ---
 title: Aspose.Slides Cloud API Working with Master Slides Tutorials
-
 url: /working-with-master-slides/
 description: Learn to manage PowerPoint master slides using Aspose.Slides Cloud API with step-by-step tutorials on reading, copying, deleting, and applying slide masters.
 weight: 130

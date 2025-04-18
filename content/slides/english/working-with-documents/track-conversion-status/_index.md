@@ -1,9 +1,7 @@
 ---
 title: How to Track Conversion Progress for Large Files Tutorial
-
 url: /working-with-documents/track-conversion-status/
 description: Learn how to track the progress of large PowerPoint presentation conversions using Aspose.Slides Cloud's asynchronous API. Step-by-step tutorial with cURL and SDK code examples in C#, Python, and Java.
-keywords: PowerPoint, presentation, REST API, cloud API, convert a presentation, export a presentation, asynchronous conversion, large files, progress tracking, tutorial, learning guide
 weight: 70
 ---
 

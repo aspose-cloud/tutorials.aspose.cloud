@@ -1,12 +1,6 @@
 ---
 title: Comprehensive PowerPoint API Developer Guide
 description: Complete guide for developers working with PowerPoint presentation REST API - implementation tutorials, code examples, best practices, and troubleshooting
-keywords:
-- PowerPoint
-- presentation
-- REST API
-- cloud API
-
 url: /slides/
 weight: 20
 ---

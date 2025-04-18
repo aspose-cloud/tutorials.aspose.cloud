@@ -1,9 +1,8 @@
 ---
 title: How to Delete Unused Master Slides Tutorial
-
 url: /working-with-master-slides/delete-unused-master-slides/
 weight: 40
-description: "Learn how to optimize PowerPoint presentations by removing unused master slides using Aspose.Slides Cloud API in this practical tutorial."
+description: Learn how to optimize PowerPoint presentations by removing unused master slides using Aspose.Slides Cloud API in this practical tutorial.
 ---
 
 ## Introduction

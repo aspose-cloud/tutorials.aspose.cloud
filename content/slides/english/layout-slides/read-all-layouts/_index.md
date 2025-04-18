@@ -1,9 +1,7 @@
 ---
 title: How to Read Information About All Layout Slides Tutorial
-
 url: /layout-slides/read-all-layouts/
 weight: 10
-keywords: PowerPoint, presentation, REST API, cloud API, tutorial, layout slides, read layouts
 description: Learn how to retrieve and analyze all layout slides from PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial for developers.
 ---
 

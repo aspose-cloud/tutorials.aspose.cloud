@@ -1,9 +1,7 @@
 ---
 title: How to Delete Folders - Aspose.Slides Cloud API Tutorial
-
 url: /files-folders-storage/folders-delete/
 description: Learn to safely remove folders and their contents from cloud storage with this step-by-step tutorial using Aspose.Slides Cloud API.
-keywords: PowerPoint, presentation, REST API, cloud API, delete folder, remove folder, folder management
 weight: 50
 ---
 

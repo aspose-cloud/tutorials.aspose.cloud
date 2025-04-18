@@ -1,8 +1,6 @@
 ---
 title: How to List Files and Folders - Aspose.Slides Cloud API Tutorial
 description: Learn to retrieve and display the contents of folders in your cloud storage with this comprehensive tutorial using Aspose.Slides Cloud API.
-keywords: PowerPoint, presentation, REST API, cloud API, list files, list folders, folder contents
-
 url: /files-folders-storage/folders-list-contents/
 weight: 20
 ---

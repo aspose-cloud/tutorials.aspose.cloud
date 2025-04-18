@@ -1,9 +1,7 @@
 ---
 title: How to Replace Presentation Fonts Tutorial
-
 url: /working-with-fonts/replace-presentation-fonts/
 weight: 70
-keywords: PowerPoint, presentation, REST API, cloud API, font presentation, replace fonts, font, substitution
 description: Learn how to replace fonts in PowerPoint presentations using Aspose.Slides Cloud API. This step-by-step tutorial shows how to substitute one font with another.
 ---
 

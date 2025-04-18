@@ -1,9 +1,7 @@
 ---
 title: How to Split PowerPoint Presentations Tutorial
-
 url: /working-with-documents/split-presentations/
 description: Learn how to split PowerPoint presentations using Aspose.Slides Cloud API. This step-by-step guide covers everything from splitting specific slides.
-keywords: PowerPoint, presentation, REST API, cloud API, split a presentation, extract slides, tutorial, learning guide
 weight: 40
 ---
 

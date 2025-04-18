@@ -1,10 +1,8 @@
 ---
 title: Creating Pie Charts with Aspose.Slides Cloud API Tutorial
-
 url: /working-with-charts/create-pie-chart/
 weight: 20
 description: Step-by-step tutorial on creating pie charts in PowerPoint presentations using Aspose.Slides Cloud API with practical examples and code samples.
-keywords: PowerPoint, presentation, REST API, cloud API, pie chart, chart, tutorial
 ---
 
 ## Tutorial: Creating Pie Charts in PowerPoint Presentations

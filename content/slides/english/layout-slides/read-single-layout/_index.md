@@ -1,9 +1,7 @@
 ---
 title: How to Read Information About a Single Layout Slide Tutorial
-
 url: /layout-slides/read-single-layout/
 weight: 20
-keywords: PowerPoint, presentation, REST API, cloud API, tutorial, layout slide, slide index
 description: Learn how to retrieve and analyze specific layout slides by index from PowerPoint presentations using Aspose.Slides Cloud API in this developer tutorial.
 ---
 

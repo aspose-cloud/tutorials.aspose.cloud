@@ -1,9 +1,7 @@
 ---
 title: How to Get Presentation Fonts Tutorial
-
 url: /working-with-fonts/get-presentation-fonts/
 weight: 20
-keywords: PowerPoint, presentation, REST API, cloud API, font, presentation fonts, retrieve fonts, list fonts
 description: Learn how to retrieve and list all fonts used in PowerPoint presentations with Aspose.Slides Cloud API in this step-by-step tutorial for developers.
 ---
 

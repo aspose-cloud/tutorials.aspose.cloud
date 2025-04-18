@@ -1,9 +1,8 @@
 ---
 title: How to Read Information About a Specific Master Slide Tutorial
-
 url: /working-with-master-slides/read-information-about-a-master-slide/
 weight: 20
-description: "Learn how to read detailed information about a specific master slide in PowerPoint presentations using Aspose.Slides Cloud API in this practical tutorial."
+description: Learn how to read detailed information about a specific master slide in PowerPoint presentations using Aspose.Slides Cloud API in this practical tutorial.
 ---
 
 ## Introduction

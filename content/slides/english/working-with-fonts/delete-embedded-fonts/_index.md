@@ -1,8 +1,6 @@
 ---
 title: Learn to Delete Embedded Fonts Tutorial
-
 url: /working-with-fonts/delete-embedded-fonts/
-keywords: PowerPoint, presentation, REST API, cloud API, font, embedded fonts, delete fonts, remove fonts, reduce file size
 description: Learn how to delete embedded fonts from PowerPoint presentations to reduce file size using Aspose.Slides Cloud API in this step-by-step tutorial.
 weight: 80
 ---

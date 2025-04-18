@@ -1,8 +1,6 @@
 ---
 title: Mastering Layout Slides with Aspose.Slides Cloud API Tutorial
-
 url: /layout-slides/
-keywords: PowerPoint, presentation, REST API, cloud API, design, slide, layout, tutorial, learning path
 description: Step-by-step tutorials for working with layout slides in PowerPoint presentations using Aspose.Slides Cloud API. Learn to read, copy, and manage slide layouts.
 weight: 140
 ---

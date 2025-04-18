@@ -1,9 +1,7 @@
 ---
 title: How to Merge PowerPoint Presentations Tutorial
-
 url: /working-with-documents/merge-presentations/
 description: Learn how to merge PowerPoint files using Aspose.Slides Cloud API. This step-by-step tutorial covers merging entire presentations, specific slides, and files from various sources using REST API and SDKs.
-keywords: PowerPoint, presentation, REST API, cloud API, merge presentations, combine slides, tutorial, learning guide
 weight: 30
 ---
 

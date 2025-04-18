@@ -1,8 +1,6 @@
 ---
 title: How to Copy Layout Slides Between Presentations Tutorial
-
 url: /layout-slides/copy-layout/
-keywords: PowerPoint, presentation, REST API, cloud API, tutorial, layout slide, copy layout, template
 description: Learn how to copy layout slides between PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial for developers.
 weight: 30
 ---

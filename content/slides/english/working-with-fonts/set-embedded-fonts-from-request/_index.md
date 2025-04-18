@@ -1,9 +1,7 @@
 ---
 title: How to Set Embedded Fonts from a Request Tutorial
-
 url: /working-with-fonts/set-embedded-fonts-from-request/
 weight: 50
-keywords: PowerPoint, presentation, REST API, cloud API, font, embedded fonts, custom fonts, font file, tutorial
 description: Learn how to embed custom font files directly into PowerPoint presentations using Aspose.Slides Cloud API in this practical step-by-step tutorial.
 ---
 

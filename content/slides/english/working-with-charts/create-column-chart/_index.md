@@ -1,10 +1,8 @@
 ---
 title: Creating Column Charts with Aspose.Slides Cloud API Tutorial
-
 url: /working-with-charts/create-column-chart/
 weight: 10
 description: Learn how to create column charts in PowerPoint presentations programmatically using Aspose.Slides Cloud API in this step-by-step tutorial.
-keywords: PowerPoint, presentation, REST API, cloud API, column chart, bar chart, tutorial
 ---
 
 ## Tutorial: Creating Column Charts in PowerPoint Presentations

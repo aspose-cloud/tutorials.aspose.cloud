@@ -1,9 +1,7 @@
 ---
 title: How to Convert Presentations to Different Formats Tutorial
-
 url: /working-with-documents/convert-presentations/
 description: Learn how to convert PowerPoint presentations (PPT, PPTX) to PDF, HTML, PNG, and other formats using Aspose.Slides Cloud API. Step-by-step guide with cURL and SDK examples in C#, Python, and Java.
-keywords: PowerPoint, presentation, REST API, cloud API, convert a presentation, export a presentation, PPT to PDF, tutorial, learning guide,
 weight: 20
 ---
 

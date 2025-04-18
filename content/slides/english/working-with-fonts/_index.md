@@ -1,10 +1,8 @@
 ---
 title: Aspose.Slides Cloud API Working with Fonts Tutorials
-
 url: /working-with-fonts/
 weight: 100
 description: Master font management in PowerPoint with Aspose.Slides Cloud API tutorials—learn to use, embed, compress, replace, and delete fonts in presentations.
-keywords: PowerPoint, presentation, REST API, cloud API, font, presentation fonts, tutorial
 ---
 
 ## Introduction

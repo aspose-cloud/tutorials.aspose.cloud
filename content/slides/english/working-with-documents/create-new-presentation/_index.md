@@ -1,9 +1,7 @@
 ---
 title: How to Create a New Presentation from Scratch Tutorial
-
 url: /working-with-documents/create-new-presentation/
 description: Learn how to create PowerPoint presentations from scratch using Aspose.Slides Cloud API with REST and SDKs. Step-by-step guide for beginners.
-keywords: PowerPoint, presentation, REST API, cloud API, create a presentation, tutorial, learning guide, beginners
 weight: 10
 ---
 

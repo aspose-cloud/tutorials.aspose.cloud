@@ -1,9 +1,7 @@
 ---
 title: Creating Scattered Charts with Aspose.Slides Cloud API Tutorial
-
 url: /working-with-charts/create-scattered-chart/
 weight: 40
-keywords: PowerPoint, presentation, REST API, cloud API, scattered chart, scatter plot, XY chart, tutorial
 description: Learn how to create scatter charts in PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step programming tutorial with code examples.
 ---
 

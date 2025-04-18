@@ -1,11 +1,8 @@
 ---
 title: Setting Chart Axes Properties with Aspose.Slides Cloud API Tutorial
-
 url: /working-with-charts/chart-axis/
 weight: 60
 description: Learn how to customize chart axes in PowerPoint presentations using Aspose.Slides Cloud API in this step-by-step tutorial with practical examples.
-keywords: PowerPoint, presentation, REST API, cloud API, chart, axis, chart axis, customize axis
-
 ---
 
 ## Tutorial: Customizing Chart Axes in PowerPoint Presentations

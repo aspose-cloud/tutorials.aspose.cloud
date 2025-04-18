@@ -1,9 +1,7 @@
 ---
 title: How to Use Font Fallback Rules in Conversion Tutorial
-
 url: /working-with-documents/font-fallback/
 description: Learn how to implement font fallback rules when converting PowerPoint presentations with Aspose.Slides Cloud API. Ensure consistent font rendering across languages and devices using REST or SDKs.
-keywords: PowerPoint, presentation, REST API, cloud API, convert a presentation, export a presentation, font fallback, font substitution, missing fonts, tutorial, learning guide
 weight: 45
 ---
 

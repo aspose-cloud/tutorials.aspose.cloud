@@ -1,10 +1,8 @@
 ---
 title: Learn to Set Embedded Fonts Tutorial
-
 url: /working-with-fonts/set-embedded-fonts/
 weight: 40
-keywords: PowerPoint, presentation, REST API, cloud API, font, embedded fonts
-description: "Learn how to embed fonts in PowerPoint presentations using Aspose.Slides Cloud API in this practical tutorial. Ensure consistent rendering across systems."
+description: Learn how to embed fonts in PowerPoint presentations using Aspose.Slides Cloud API in this practical tutorial. Ensure consistent rendering across systems.
 ---
 
 ## Learning Objectives

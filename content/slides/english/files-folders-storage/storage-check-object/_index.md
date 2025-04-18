@@ -1,8 +1,6 @@
 ---
 title: How to Check Object Existence in Storage - Aspose.Slides Cloud API Tutorial
 description: Tutorial on verifying if files or folders exist in your cloud storage before attempting operations with Aspose.Slides Cloud API.
-keywords: PowerPoint, presentation, REST API, cloud API, file check, folder check, object existence
-
 url: /files-folders-storage/storage-check-object/
 weight: 20
 ---

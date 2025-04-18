@@ -1,9 +1,7 @@
 ---
 title: How to Create a Presentation from a Template Tutorial
-
 url: /working-with-documents/use-document-template/
 description: Learn how to create PowerPoint presentations from templates using Aspose.Slides Cloud API with data binding, REST API, and SDK examples in C#, Python, and Java.
-keywords: PowerPoint, presentation, REST API, cloud API, create a presentation, presentation template, document template, data binding, tutorial, learning guide
 weight: 15
 ---
 

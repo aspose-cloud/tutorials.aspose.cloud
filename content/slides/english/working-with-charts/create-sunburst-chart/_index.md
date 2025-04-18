@@ -1,9 +1,7 @@
 ---
 title: Creating Sunburst Charts with Aspose.Slides Cloud API Tutorial
-
 url: /working-with-charts/create-sunburst-chart/
 weight: 30
-keywords: PowerPoint, presentation, REST API, cloud API, sunburst chart, hierarchical chart, multilevel chart, tutorial
 description: Learn how to create hierarchical sunburst charts in PowerPoint presentations using Aspose.Slides Cloud API in this comprehensive tutorial with examples.
 ---
 
