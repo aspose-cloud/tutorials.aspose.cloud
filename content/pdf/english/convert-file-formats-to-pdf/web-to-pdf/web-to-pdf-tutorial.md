@@ -1,6 +1,5 @@
 ---
-title:  "Tutorial Learn to Convert Web Pages to PDF"
-
+title: Tutorial Learn to Convert Web Pages to PDF
 url: /convert-file-formats-to-pdf/web-to-pdf/
 weight: 20
 description: Learn how to convert web pages to PDF documents using Aspose.PDF Cloud API in this step-by-step tutorial for developers.

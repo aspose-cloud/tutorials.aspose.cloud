@@ -1,6 +1,5 @@
 ---
 title: Comprehensive PDF Development Guide
-
 url: /pdf/
 weight: 20
 description: Complete guide to PDF manipulation, conversion, and advanced document processing learn how to create, modify, secure, and extract data from PDF documents with practical examples and solutions.

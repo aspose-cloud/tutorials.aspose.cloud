@@ -77,7 +77,7 @@ For best results when converting to SVG, ensure your PDF meets these recommendat
 - Font-based text will convert better than text in images
 - Simpler PDFs generally produce cleaner SVG output
 
-For testing, you can use our [sample PDF](/pdf/convert-pdf-document-to-svg-format/Sample.pdf) or your own document.
+
 
 ### Step 4: Convert PDF to SVG
 

@@ -51,7 +51,7 @@ Each tutorial is designed to be completed in approximately 15-30 minutes.
 
 - [Tutorial: Converting PDF to ePUB for eReaders](/pdf-conversion/pdf-to-epub/) - Create eBook-compatible files from your PDF documents.
 - [Tutorial: PDF to TeX Conversion for Scientific Documents](/pdf-conversion/pdf-to-tex/) - Convert PDFs to TeX format for scientific and mathematical content.
-[Tutorial: Converting XFA-based PDF Forms to AcroForms](/pdf-conversion/xfa-to-acroform/) - Learn how to convert complex XFA-based PDF forms to the more widely compatible AcroForm format..
+- [Tutorial: Converting XFA-based PDF Forms to AcroForms](/pdf-conversion/xfa-to-acroform/) - Learn how to convert complex XFA-based PDF forms to the more widely compatible AcroForm format..
 
 ### Image Format Conversions
 

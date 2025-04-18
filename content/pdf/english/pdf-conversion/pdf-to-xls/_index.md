@@ -1,6 +1,5 @@
 ---
 title:  Tutorial Learn to Convert PDF Documents to Excel (XLS) Format
-
 url: /pdf-conversion/pdf-to-xls/
 description: Learn how to convert PDF documents to Excel spreadsheets in this step-by-step tutorial using Aspose.PDF Cloud API with examples in multiple languages.
 weight: 130
