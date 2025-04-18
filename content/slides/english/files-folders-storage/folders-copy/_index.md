@@ -3,7 +3,6 @@ title: Copying Folders with Aspose.Slides Cloud API Tutorial
 
 url: /files-folders-storage/folders-copy/
 description: Learn to copy and duplicate folder structures in cloud storage with this step-by-step tutorial using Aspose.Slides Cloud API.
-keywords: PowerPoint, presentation, tutorial, REST API, cloud API, folder copy, duplicate folder, folder management
 weight: 30
 ---
 

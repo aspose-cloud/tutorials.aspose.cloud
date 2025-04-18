@@ -1,8 +1,6 @@
 ---
 title: Working with Animations on Special Slides with Aspose.Slides Cloud API Tutorial
-
 url: /animations/special-slide-animations/
-keywords: PowerPoint, presentation, animations, master slides, layout slides, special slides, tutorial, API REST
 description: Learn how to work with animations on master and layout slides in PowerPoint presentations using Aspose.Slides Cloud API in this comprehensive step-by-step tutorial.
 weight: 70
 ---

@@ -1,9 +1,7 @@
 ---
 title: Delete Interactive Animation Sequences Tutorial
-
 url: /animations/delete-interactive-sequences/
 description: Learn how to delete interactive animation sequences from PowerPoint slides using Aspose.Slides Cloud API with step-by-step code examples and tips.
-keywords: PowerPoint, presentation, REST API, cloud API, animation, remove animation, interactive sequence, click animation, tutorial,
 weight: 60
 ---
 

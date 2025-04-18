@@ -1,9 +1,7 @@
 ---
 title: Delete a Main Sequence Animation Tutorial
-
 url: /animations/delete-main-sequence/
 description: Learn how to delete the main animation sequence from PowerPoint slides using Aspose.Slides Cloud API, while preserving interactive animations.
-keywords: PowerPoint, presentation, REST API, cloud API, animation, remove animation, main sequence, animation sequence, tutorial
 weight: 100
 ---
 

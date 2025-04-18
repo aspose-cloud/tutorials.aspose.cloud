@@ -1,9 +1,7 @@
 ---
 title: Delete Effects from a Main Sequence Tutorial
-
 url: /animations/delete-main-sequence-effects/
 description: Delete specific animation effects from the main sequence in PowerPoint using Aspose.Slides Cloud API. Learn with code examples in C#, Python, and Node.js.
-keywords: PowerPoint, presentation, REST API, cloud API, animation, remove animation, shape animation, main sequence, tutorial
 weight: 90
 ---
 

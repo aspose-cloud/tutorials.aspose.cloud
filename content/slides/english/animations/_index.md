@@ -1,9 +1,7 @@
 ---
 title: Aspose.Slides Cloud API Document Working with Animations Tutorial
-
 url: /animations/
 description: Learn how to work with animations in PowerPoint presentations using Aspose.Slides Cloud API through hands-on tutorials from basic to advanced concepts.
-keywords: PowerPoint, presentation, REST API, cloud API, animation, add animation, update animation, remove animation, shape animation, text animation, tutorial
 weight: 40
 ---
 
