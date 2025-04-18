@@ -39,7 +39,7 @@ Each tutorial is designed to be completed in approximately 15-30 minutes.
 
 - [Tutorial: How to Convert PDF to Word Documents](/pdf-conversion/pdf-to-word/) - Learn to transform PDFs into editable DOC and DOCX formats with precise formatting control.
 - [Tutorial: Converting PDF to Excel Spreadsheets](/pdf-conversion/pdf-to-xls/) - Master the process of extracting tabular data from PDFs into structured Excel files.
-[Tutorial: Converting PDF Documents to XPS Format](/pdf-conversion/pdf-to-xps/) - Learn to transform PDF documents to XPS format for enhanced document portability.
+- [Tutorial: Converting PDF Documents to XPS Format](/pdf-conversion/pdf-to-xps/) - Learn to transform PDF documents to XPS format for enhanced document portability.
 
 ### Web-Oriented Format Conversions
 
