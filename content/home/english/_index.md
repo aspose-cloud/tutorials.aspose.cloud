@@ -34,10 +34,10 @@ Learn to work with CAD drawings in your applications with our step-by-step guide
 
 ## Data Extraction & Recognition Tutorials
 
-### [Aspose.OCR Cloud Tutorials](#)
+### [Aspose.OCR Cloud Tutorials](./ocr/)
 Master optical character recognition with our tutorials on extracting text from images and documents. Learn techniques for improving recognition accuracy and processing multi-page documents efficiently.
 
-### [Aspose.OMR Cloud Tutorials](#)
+### [Aspose.OMR Cloud Tutorials](./omr/)
 Discover how to create and process optical mark recognition forms with our practical guides for surveys, tests, and other data collection applications.
 
 ### [Aspose.BarCode Cloud Tutorials](#)
