@@ -21,18 +21,21 @@ Our tutorials follow a structured learning path, progressing from basic to advan
 
 ### Beginner Tutorials
 
-[Learn to Binarize Images for Improved OCR](/preprocess-image/binarize-image/) - Convert color images to black and white to significantly enhance text recognition accuracy
-[Tutorial: How to Correct Image Contrast](/preprocess-image/correct-contrast/) - Automatically adjust image contrast to reveal text details in low-contrast images
+- [Learn to Binarize Images for Improved OCR](/preprocess-image/binarize-image/) - Convert color images to black and white to significantly enhance text recognition accuracy
+
+- [Tutorial: How to Correct Image Contrast](/preprocess-image/correct-contrast/) - Automatically adjust image contrast to reveal text details in low-contrast images
 
 ### Intermediate Tutorials
 
-[Learn to Deskew Images for Better OCR Results](/preprocess-image/deskew-image/) - Straighten skewed and tilted images to improve text line detection and recognition
-[Tutorial: How to Dewarp Document Images](/preprocess-image/dewarp-image/) - Correct page curvature and camera lens distortion in photographed documents
+- [Learn to Deskew Images for Better OCR Results](/preprocess-image/deskew-image/) - Straighten skewed and tilted images to improve text line detection and recognition
+
+- [Tutorial: How to Dewarp Document Images](/preprocess-image/dewarp-image/) - Correct page curvature and camera lens distortion in photographed documents
 
 ### Advanced Tutorials
 
-[Learn to Upsample Images for Small Text Recognition](/preprocess-image/upsample-image/) - Increase image resolution to improve detection of small fonts and dense lines
-[Tutorial: Creating an Optimal Image Preprocessing Pipeline](/preprocess-image/preprocessing-pipeline/) - Combine multiple preprocessing techniques in the right order for maximum OCR accuracy
+- [Learn to Upsample Images for Small Text Recognition](/preprocess-image/upsample-image/) - Increase image resolution to improve detection of small fonts and dense lines
+
+- [Tutorial: Creating an Optimal Image Preprocessing Pipeline](/preprocess-image/preprocessing-pipeline/) - Combine multiple preprocessing techniques in the right order for maximum OCR accuracy
 
 Each tutorial includes clear learning objectives, step-by-step instructions, code examples, and practical exercises to reinforce your understanding.
 

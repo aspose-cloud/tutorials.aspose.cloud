@@ -49,12 +49,12 @@ Troubleshooting Tips: Common issues and solutions are provided to help you overc
 
 ## Helpful Resources
 
-[Product Page](https://products.aspose.cloud/ocr/)
-[Documentation](https://docs.aspose.cloud/ocr/)
-[Live Demo](https://products.aspose.app/ocr/family)
-[API Reference UI](https://reference.aspose.cloud/ocr/)
-[Blog](https://blog.aspose.cloud/category/ocr/)
-[Free Support](https://forum.aspose.cloud/c/ocr/12/)
-[Free Trial](https://dashboard.aspose.cloud/#/apps)
+- [Product Page](https://products.aspose.cloud/ocr/)
+- [Documentation](https://docs.aspose.cloud/ocr/)
+- [Live Demo](https://products.aspose.app/ocr/family)
+- [API Reference UI](https://reference.aspose.cloud/ocr/)
+- [Blog](https://blog.aspose.cloud/category/ocr/)
+- [Free Support](https://forum.aspose.cloud/c/ocr/12/)
+- [Free Trial](https://dashboard.aspose.cloud/#/apps)
 
 We welcome your feedback on these tutorials. If you have any questions or suggestions, please don't hesitate to reach out through our [support forum](https://forum.aspose.cloud/c/ocr/12/).

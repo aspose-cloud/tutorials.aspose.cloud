@@ -49,12 +49,12 @@ Optimize your conversion process for better results
 
 ## Helpful Resources
 
-[Product Page](https://products.aspose.cloud/ocr/)
-[Documentation](https://docs.aspose.cloud/ocr/)
-[Live Demo](https://products.aspose.app/ocr/family)
-[API Reference UI](https://reference.aspose.cloud/ocr/)
-[Blog](https://blog.aspose.cloud/category/ocr/)
-[Free Support](https://forum.aspose.cloud/c/ocr/12/)
-[Free Trial](https://dashboard.aspose.cloud/#/apps)
+- [Product Page](https://products.aspose.cloud/ocr/)
+- [Documentation](https://docs.aspose.cloud/ocr/)
+- [Live Demo](https://products.aspose.app/ocr/family)
+- [API Reference UI](https://reference.aspose.cloud/ocr/)
+- [Blog](https://blog.aspose.cloud/category/ocr/)
+- [Free Support](https://forum.aspose.cloud/c/ocr/12/)
+- [Free Trial](https://dashboard.aspose.cloud/#/apps)
 
 We welcome your feedback on these tutorials! If you have questions or suggestions, please visit our [support forum](https://forum.aspose.cloud/c/ocr/12/).

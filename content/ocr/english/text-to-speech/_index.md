@@ -16,8 +16,9 @@ This tutorial series is organized as a progressive learning path, taking you fro
 Estimated completion time for entire series: 3-4 hours
 
 ### Beginner Tutorials
-[Learn the Text to Speech Basics](/text-to-speech/basics/) - Get started with the fundamental concepts of text-to-speech conversion using Aspose.OCR Cloud
-[Tutorial: How to Send Text for Speech Conversion](/text-to-speech/send-text/) - Step-by-step guide to submitting text to the Aspose.OCR Cloud API for voice conversion 
+- [Learn the Text to Speech Basics](/text-to-speech/basics/) - Get started with the fundamental concepts of text-to-speech conversion using Aspose.OCR Cloud
+
+- [Tutorial: How to Send Text for Speech Conversion](/text-to-speech/send-text/) - Step-by-step guide to submitting text to the Aspose.OCR Cloud API for voice conversion 
 
 ## Prerequisites
 

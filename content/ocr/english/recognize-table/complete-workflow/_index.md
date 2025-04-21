@@ -452,16 +452,15 @@ To reinforce what you've learned:
 3. Implement a complete pipeline that extracts tables from PDFs, recognizes them, and stores the data in a database
 4. Develop a dashboard to monitor and manage table recognition jobs
 
----
 
 ## Helpful Resources
 
-[Product Page](https://products.aspose.cloud/ocr/)
-[Documentation](https://docs.aspose.cloud/ocr/)
-[Live Demo](https://products.aspose.app/ocr/family)
-[API Reference UI](https://reference.aspose.cloud/ocr/)
-[Blog](https://blog.aspose.cloud/category/ocr/)
-[Free Support](https://forum.aspose.cloud/c/ocr/12/)
-[Free Trial](https://dashboard.aspose.cloud/#/apps)
+- [Product Page](https://products.aspose.cloud/ocr/)
+- [Documentation](https://docs.aspose.cloud/ocr/)
+- [Live Demo](https://products.aspose.app/ocr/family)
+- [API Reference UI](https://reference.aspose.cloud/ocr/)
+- [Blog](https://blog.aspose.cloud/category/ocr/)
+- [Free Support](https://forum.aspose.cloud/c/ocr/12/)
+- [Free Trial](https://dashboard.aspose.cloud/#/apps)
 
 Have questions about this tutorial? Feel free to post them on our [support forum](https://forum.aspose.cloud/c/ocr/12/).

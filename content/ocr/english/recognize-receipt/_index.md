@@ -15,15 +15,17 @@ These tutorials are organized in sequence, allowing you to build your knowledge 
 
 ### Beginner Level
 
-[Tutorial: How to Send Receipts for Recognition](/recognize-receipt/send-for-recognition/) - Master the process of submitting receipt images to the Aspose.OCR Cloud API for text extraction.
+- [Tutorial: How to Send Receipts for Recognition](/recognize-receipt/send-for-recognition/) - Master the process of submitting receipt images to the Aspose.OCR Cloud API for text extraction.
 
 ### Intermediate Level
-[Tutorial: Fetching and Processing Recognition Results](/recognize-receipt/fetch-recognition-result/) - Learn to retrieve, decode, and handle the recognition results returned by the API.
-[Tutorial: Working with the Aspose.OCR Cloud SDK for Receipt Recognition](/recognize-receipt/recognition-sdk/) - Implement receipt recognition in your applications using language-specific SDKs.
+- [Tutorial: Fetching and Processing Recognition Results](/recognize-receipt/fetch-recognition-result/) - Learn to retrieve, decode, and handle the recognition results returned by the API.
+
+- [Tutorial: Working with the Aspose.OCR Cloud SDK for Receipt Recognition](/recognize-receipt/recognition-sdk/) - Implement receipt recognition in your applications using language-specific SDKs.
 
 ### Advanced Level
-[Tutorial: Building a Complete Receipt Recognition Workflow](/recognize-receipt/complete-workflow/) - Create an end-to-end receipt recognition solution with error handling and optimization.
-[Tutorial: Advanced Receipt Recognition Techniques](/recognize-receipt/advanced-techniques/) - Explore preprocessing options, recognition settings, and result post-processing to improve accuracy.
+- [Tutorial: Building a Complete Receipt Recognition Workflow](/recognize-receipt/complete-workflow/) - Create an end-to-end receipt recognition solution with error handling and optimization.
+
+- [Tutorial: Advanced Receipt Recognition Techniques](/recognize-receipt/advanced-techniques/) - Explore preprocessing options, recognition settings, and result post-processing to improve accuracy.
 
 Each tutorial includes working code examples, detailed explanations, and hands-on exercises to reinforce your learning. By completing this tutorial series, you'll have the skills to implement sophisticated receipt recognition features in your applications.
 

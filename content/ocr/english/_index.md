@@ -52,12 +52,12 @@ Step-by-step tutorials for configuring and optimizing Aspose.OCR Cloud API docum
 
 ## Helpful Resources
 
-[Product Page](https://products.aspose.cloud/ocr/)
-[Documentation](https://docs.aspose.cloud/ocr/)
-[Live Demo](https://products.aspose.app/ocr/family)
-[API Reference UI](https://reference.aspose.cloud/ocr/)
-[Blog](https://blog.aspose.cloud/category/ocr/)
-[Free Support](https://forum.aspose.cloud/c/ocr/12/)
-[Free Trial](https://dashboard.aspose.cloud/#/apps)
+- [Product Page](https://products.aspose.cloud/ocr/)
+- [Documentation](https://docs.aspose.cloud/ocr/)
+- [Live Demo](https://products.aspose.app/ocr/family)
+- [API Reference UI](https://reference.aspose.cloud/ocr/)
+- [Blog](https://blog.aspose.cloud/category/ocr/)
+- [Free Support](https://forum.aspose.cloud/c/ocr/12/)
+- [Free Trial](https://dashboard.aspose.cloud/#/apps)
 
 For support or questions, contact our developer community through the [Aspose.OCR Cloud Forum](https://forum.aspose.cloud/c/ocr/11).
