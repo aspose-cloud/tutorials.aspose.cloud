@@ -21,24 +21,27 @@ We've organized these tutorials in a progressive learning path, from basic docum
 
 ### Creating Presentations
 
-[Tutorial: How to Create a New Presentation from Scratch](/working-with-documents/create-new-presentation/) - Learn to create empty PowerPoint presentations using Aspose.Slides Cloud API with simple API calls.
-[Tutorial: How to Create a Presentation from a Template](/working-with-documents/use-document-template/) - Create custom presentations using templates and data binding for automated document generation.
+- [Tutorial: How to Create a New Presentation from Scratch](/working-with-documents/create-new-presentation/) - Learn to create empty PowerPoint presentations using Aspose.Slides Cloud API with simple API calls.
+
+- [Tutorial: How to Create a Presentation from a Template](/working-with-documents/use-document-template/) - Create custom presentations using templates and data binding for automated document generation.
 
 ### Converting Presentations
 
-[Tutorial: How to Convert Presentations to Different Formats](/working-with-documents/convert-presentations/) - Learn essential techniques for converting PowerPoint files to various formats including PDF, HTML, images, and more.
-[Tutorial: How to Use Font Fallback Rules in Conversion](/working-with-documents/font-fallback) - Implement font substitution strategies for consistent document appearance across platforms.
+- [Tutorial: How to Convert Presentations to Different Formats](/working-with-documents/convert-presentations/) - Learn essential techniques for converting PowerPoint files to various formats including PDF, HTML, images, and more.
+
+- [Tutorial: How to Use Font Fallback Rules in Conversion](/working-with-documents/font-fallback) - Implement font substitution strategies for consistent document appearance across platforms.
 
 
 ### Merging Presentations
 
-[Tutorial: How to Merge Complete Presentations](/working-with-documents/merge-presentations/) - Combine multiple presentations stored in cloud storage into a single cohesive document.
+- [Tutorial: How to Merge Complete Presentations](/working-with-documents/merge-presentations/) - Combine multiple presentations stored in cloud storage into a single cohesive document.
 
 
 ### Splitting Presentations
 
-[Tutorial: How to Split a Presentation into Separate Files](/working-with-documents/split-presentation/) - Divide a presentation into individual files with complete control over the output format.
-[Tutorial: How to Track Conversion Progress for Large Files](/working-with-documents/track-conversion-status/) - Implement asynchronous splitting operations for handling large presentations efficiently.
+- [Tutorial: How to Split a Presentation into Separate Files](/working-with-documents/split-presentations/) - Divide a presentation into individual files with complete control over the output format.
+
+- [Tutorial: How to Track Conversion Progress for Large Files](/working-with-documents/track-conversion-status/) - Implement asynchronous splitting operations for handling large presentations efficiently.
 
 ## Prerequisites
 
