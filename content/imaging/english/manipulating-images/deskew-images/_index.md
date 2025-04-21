@@ -211,10 +211,6 @@ To reinforce your learning:
 2. Create a comparison tool that shows before/after results
 3. Integrate deskewing into a document scanning workflow
 
-## Next Steps
-
-Continue your learning journey with our [Tutorial: How to Apply Filters to Images](/manipulating-images/apply-filters/) to learn about enhancing images with various filters.
-
 ## Helpful Resources
 
 - [Product Page](https://products.aspose.cloud/imaging/)

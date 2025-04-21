@@ -26,31 +26,46 @@ This tutorial series takes you from the fundamentals to advanced implementations
 ### Beginner Level
 Start here if you're new to Aspose.Imaging Cloud's reverse image search capabilities:
 
-[Tutorial: Creating Your First Search Context](/reverse-image-search/create-search-context/) - Learn to establish the foundation for image searching
-[Tutorial: Understanding Search Context Status](/reverse-image-search/get-search-context-status/) - Master monitoring the state of your search context
-[Tutorial: Adding Images to Your Search Context](/reverse-image-search/add-image/) - Add your first images to begin searching
-[Tutorial: Learn to Extract Features Without Adding to Search Context](/reverse-image-search/extract-features-without-adding/) - Understand how to analyze image features without modifying your search index.
+- [Tutorial: Creating Your First Search Context](/reverse-image-search/create-search-context/) - Learn to establish the foundation for image searching
+
+- [Tutorial: Understanding Search Context Status](/reverse-image-search/get-search-context-status/) - Master monitoring the state of your search context
+
+- [Tutorial: Adding Images to Your Search Context](/reverse-image-search/add-image/) - Add your first images to begin searching
+
+- [Tutorial: Learn to Extract Features Without Adding to Search Context](/reverse-image-search/extract-features-without-adding/) - Understand how to analyze image features without modifying your search index.
 
 ### Intermediate Level
 Once you understand the basics, enhance your implementation with these tutorials:
 
-[Tutorial: Extracting Image Features](/reverse-image-search/extract-image-features/) - Learn how to work with the visual fingerprints of images
-[Tutorial: Finding Similar Images](/reverse-image-search/find-similar-images/) - Implement your first similarity search
-[Tutorial: Detecting Duplicate Images](/reverse-image-search/find-duplicate-images/) - Clean up image collections by finding duplicates
-[Tutorial: Comparing Two Images](/reverse-image-search/compare-two-images/) - Learn direct image-to-image comparison techniques
-[Tutorial: How to Get Images from Search Context](/reverse-image-search/get-image-from-search-context/) - Learn to retrieve stored images from your search context.
-[Tutorial: Learn to Get Image Features from Search Context](/reverse-image-search/get-image-features/) - Understand how to access and utilize the extracted features of stored images.
+- [Tutorial: Extracting Image Features](/reverse-image-search/extract-image-features/) - Learn how to work with the visual fingerprints of images
+ 
+- [Tutorial: Finding Similar Images](/reverse-image-search/find-similar-images/) - Implement your first similarity search
+
+- [Tutorial: Detecting Duplicate Images](/reverse-image-search/find-duplicate-images/) - Clean up image collections by finding duplicates
+
+- [Tutorial: Comparing Two Images](/reverse-image-search/compare-two-images/) - Learn direct image-to-image comparison techniques
+
+- [Tutorial: How to Get Images from Search Context](/reverse-image-search/get-image-from-search-context/) - Learn to retrieve stored images from your search context.
+
+- [Tutorial: Learn to Get Image Features from Search Context](/reverse-image-search/get-image-features/) - Understand how to access and utilize the extracted features of stored images.
 
 ### Advanced Level
 Take your implementation to the next level with these advanced techniques:
 
-[Tutorial: Working with Image Tags](/reverse-image-search/find-images-by-tags/) - Enhance search with semantic tagging
-[Tutorial: Managing Image Features](/reverse-image-search/update-images-features/) - Update and optimize your image features
-[Tutorial: Building a Complete Reverse Image Search System](/reverse-image-search/complete-system/) - Combine all techniques into a robust solution
-[Tutorial: How to Delete Images from Search Context](/reverse-image-search/delete-image/) - Learn proper techniques for removing images while maintaining search context integrity.
-[Tutorial: Learn to Delete a Search Context](/reverse-image-search/delete-search-context/) - Understand how to properly dispose of search contexts when they're no longer needed.
-[Tutorial: How to Update Image Features](/reverse-image-search/update-image-features/) - Master the process of updating and refining image features for better search results.
-[Tutorial: Learn to Delete Image Features](/reverse-image-search/delete-image-features/) - Discover how to selectively remove specific image features from your search context.
+- [Tutorial: Working with Image Tags](/reverse-image-search/find-images-by-tags/) - Enhance search with semantic tagging
+
+- [Tutorial: Managing Image Features](/reverse-image-search/update-images-features/) - Update and optimize your image features
+
+- [Tutorial: Building a Complete Reverse Image Search System](/reverse-image-search/complete-system/) - Combine all techniques into a robust solution
+
+- [Tutorial: How to Delete Images from Search Context](/reverse-image-search/delete-image/) - Learn proper techniques for removing images while maintaining search context integrity.
+
+- [Tutorial: Learn to Delete a Search Context](/reverse-image-search/delete-search-context/) - Understand how to properly dispose of search contexts when they're no longer needed.
+
+- [Tutorial: How to Update Image Features](/reverse-image-search/update-image-features/) - Master the process of updating and refining image features for better search results.
+
+- [Tutorial: Learn to Delete Image Features](/reverse-image-search/delete-image-features/) - Discover how to selectively remove specific image features from your search context.
+
 ## Prerequisites
 
 Before starting these tutorials, you should have:

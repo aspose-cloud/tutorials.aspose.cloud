@@ -29,7 +29,7 @@ We've organized these tutorials in a progression from basic to more advanced ope
 
 7. [Tutorial: Performing Multiple Operations in One Call](/manipulating-images/multiple-operations/) - Learn to combine scaling, cropping, flipping, and format conversion in a single API call.
 8. [Guide to Grayscale Image Conversion](/manipulating-images/grayscale/) - Master the grayscale conversion process for your images.
-9. [Tutorial: Deskewing Images](/manipulating-images/deskew-image/) - Learn to correct skewed images automatically.
+9. [Tutorial: Deskewing Images](/manipulating-images/deskew-images/) - Learn to correct skewed images automatically.
 10. [Tutorial: Learn to Perform Multiple Operations on Images](/manipulating-images/perform-operations/) - Learn how to scale, crop, flip, and export images in a single API call
 
 ## Prerequisites for All Tutorials

@@ -46,12 +46,12 @@ Ready to begin? Start with our first tutorial: [Learn to Detect Objects and Get 
 
 ## Helpful Resources
 
-[Product Page](https://products.aspose.cloud/imaging/)
-[Documentation](https://docs.aspose.cloud/imaging/)
-[Live Demo](https://products.aspose.app/imaging/family)
-[API Reference UI](https://reference.aspose.cloud/imaging/)
-[Blog](https://blog.aspose.cloud/category/imaging/)
-[Free Support](https://forum.aspose.cloud/c/imaging/10/)
-[Free Trial](https://dashboard.aspose.cloud/#/apps)
+- [Product Page](https://products.aspose.cloud/imaging/)
+- [Documentation](https://docs.aspose.cloud/imaging/)
+- [Live Demo](https://products.aspose.app/imaging/family)
+- [API Reference UI](https://reference.aspose.cloud/imaging/)
+- [Blog](https://blog.aspose.cloud/category/imaging/)
+- [Free Support](https://forum.aspose.cloud/c/imaging/10/)
+- [Free Trial](https://dashboard.aspose.cloud/#/apps)
 
 We welcome your feedback on these tutorials! If you have questions or suggestions, please share them in our [support forum](https://forum.aspose.cloud/c/imaging/10/).
