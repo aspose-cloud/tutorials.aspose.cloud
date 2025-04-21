@@ -26,10 +26,10 @@ Discover how to work with spreadsheets in the cloud with our Excel-focused tutor
 ### [Aspose.Slides Cloud Tutorials](./slides/)
 Create and manage PowerPoint presentations programmatically with our practical tutorials. Learn slide management, formatting, animation control, and conversion processes for building dynamic presentation solutions.
 
-### [Aspose.Imaging Cloud Tutorials](#)
+### [Aspose.Imaging Cloud Tutorials](./imaging/)
 Explore our image processing tutorials covering resizing, conversion, effects, optimization, and metadata management through cloud API integration.
 
-### [Aspose.CAD Cloud Tutorials](#)
+### [Aspose.CAD Cloud Tutorials](./cad/)
 Learn to work with CAD drawings in your applications with our step-by-step guides for rendering, converting, and manipulating AutoCAD files and other CAD formats.
 
 ## Data Extraction & Recognition Tutorials
