@@ -48,7 +48,7 @@ Delete specific animation effects from the main sequence in PowerPoint using Asp
 Learn how to delete the main animation sequence from PowerPoint slides using Aspose.Slides Cloud API, while preserving interactive animations.
 - [Tutorial: Removing Interactive Sequences](/animations/delete-interactive-sequences/)
 Learn how to delete interactive animation sequences from PowerPoint slides using Aspose.Slides Cloud API with step-by-step code examples and tips.
-[Tutorial: Delete Effects from an Interactive Sequence](/animations/delete-effects/)
+- [Tutorial: Delete Effects from an Interactive Sequence](/animations/delete-effects/)
 Learn how to delete specific animation effects from interactive sequences in PowerPoint using Aspose.Slides Cloud API with step-by-step guides and code examples.
 
 ## Prerequisites

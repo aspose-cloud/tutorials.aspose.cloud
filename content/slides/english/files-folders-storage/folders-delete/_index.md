@@ -13,7 +13,7 @@ Before starting this tutorial, you should have:
 - An Aspose Cloud account with valid credentials
 - Basic understanding of REST APIs
 - Familiarity with your preferred programming language
-- Completed the previous tutorials on [folder operations](/tutorials/files-folders-storage/folders/move/)
+- Completed the previous tutorials on [folder operations](/files-folders-storage/folders-move/)
 
 ## Understanding Folder Deletion
 

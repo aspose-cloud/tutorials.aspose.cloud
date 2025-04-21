@@ -11,7 +11,7 @@ Before starting this tutorial, you should have:
 - An Aspose Cloud account with valid credentials
 - Basic understanding of REST APIs
 - Familiarity with your preferred programming language
-- Completed the previous tutorials on [creating folders](/tutorials/files-folders-storage/folders/create/) and [listing folder contents](/tutorials/files-folders-storage/folders/list-contents/)
+- Completed the previous tutorials on [creating folders](/files-folders-storage/folders/create/) and [listing folder contents](/files-folders-storage/folders/list-contents/)
 
 ## Why Copy Folders?
 

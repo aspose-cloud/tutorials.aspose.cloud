@@ -35,7 +35,7 @@ Each tutorial takes approximately 15-20 minutes to complete, with the entire ser
 
 Follow these tutorials in sequence for the best learning experience:
 
-1. [Tutorial: How to Read Information About All Layout Slides](/layout-slides/read-alllayouts/)  
+1. [Tutorial: How to Read Information About All Layout Slides](/layout-slides/read-all-layouts/)  
    Learn to retrieve and analyze all layout slides from a PowerPoint presentation.
 
 2. [Tutorial: How to Read Information About a Single Layout Slide](/layout-slides/read-single-layout/)  
@@ -44,7 +44,7 @@ Follow these tutorials in sequence for the best learning experience:
 3. [Tutorial: How to Copy Layout Slides Between Presentations](/layout-slides/copy-layout/)  
    Learn to clone layout slides from one presentation to another while preserving design elements.
 
-4. [Tutorial: How to Delete Unused Layout Slides](/layout-slides/delete-unused-layout/)  
+4. [Tutorial: How to Delete Unused Layout Slides](/layout-slides/delete-unused-layouts/)  
    Discover how to optimize your presentations by removing unused layout slides.
 
 ## Try It Yourself

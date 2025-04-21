@@ -15,7 +15,7 @@ The PowerPoint API allows you to programmatically create, modify, and manage pre
 
 - [Animations Tutorial](/slides/animations/)
 Learn how to work with animations in PowerPoint presentations using Aspose.Slides Cloud API through hands-on tutorials from basic to advanced concepts.
-- [Folder, and Storage Management Tutorials](/slides/files-folders-storage/
+- [Folder, and Storage Management Tutorials](/slides/files-folders-storage/)
 Learn to manage files, folders, and storage with Aspose.Slides Cloud API in this comprehensive tutorial series for developers.
 - [Mastering Layout Slides Tutorial](/slides/layout-slides/)
 Step-by-step tutorials for working with layout slides in PowerPoint presentations using Aspose.Slides Cloud API. Learn to read, copy, and manage slide layouts.

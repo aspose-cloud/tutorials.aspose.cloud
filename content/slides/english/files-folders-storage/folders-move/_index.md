@@ -1,6 +1,6 @@
 ---
 title: Moving Folders Tutorial - Aspose.Slides Cloud API
-url: /files-folders-storage/folders/move/
+url: /files-folders-storage/folders-move/
 weight: 40
 description: Learn to move and relocate folder structures in cloud storage with this tutorial using Aspose.Slides Cloud API.
 ---
