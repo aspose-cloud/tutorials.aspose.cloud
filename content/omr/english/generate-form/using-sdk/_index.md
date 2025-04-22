@@ -23,7 +23,6 @@ Before starting this tutorial, you should:
 - Know your Client ID and Client Secret from the Aspose Cloud Dashboard
 - Have a basic understanding of the programming language you'll be using (.NET for this tutorial)
 - Have a development environment set up for your chosen language
-- Be familiar with form design and [OMR form source code](/omr/design-form/)
 
 ## Introduction
 
@@ -41,7 +40,6 @@ For .NET applications, you can install the Aspose.OMR Cloud SDK using NuGet Pack
 Install-Package Aspose.Omr.Cloud.Sdk
 ```
 
-For other programming languages, visit the [Aspose.OMR Cloud GitHub repository](https://github.com/aspose-omr-cloud) to find the appropriate SDK.
 
 > Try it yourself: Install the SDK for your preferred programming language and verify that it's correctly added to your project.
 

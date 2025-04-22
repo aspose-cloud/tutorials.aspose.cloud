@@ -458,12 +458,6 @@ Before finalizing your complex form, it's important to test and refine it:
 
 > Try it yourself: Generate your multi-page form, print it, fill it out, and test the recognition accuracy.
 
-## Complete Example: 5-Page Employee Evaluation Form
-
-Below is a GitHub Gist link to the complete 5-page employee evaluation form source code:
-
-[GitHub Gist: Complete 5-Page Employee Evaluation Form](https://gist.github.com/aspose-cloud-samples/employee-evaluation-form-complete.txt)
-
 ## Troubleshooting Complex Forms
 
 ### Issue: Pages Are Not Recognized in Order

@@ -104,10 +104,10 @@ Here are the available settings:
 | `PaperSize` | string | Physical page size | `A4`, `Letter`, `Legal` |
 | `Orientation` | string | Page orientation | `Horizontal` (landscape), `Vertical` (portrait) |
 | `PageMarginLeft` | number | Left page margin in pixels | Any number |
-| `FontFamily` | string | Font family for all texts | Any [supported font](/omr/supported-fonts/) |
+| `FontFamily` | string | Font family for all texts | Any [supported font](/omr/appendices/fonts/) |
 | `FontSize` | number | Font size in pixels | Any number |
 | `FontStyle` | string | Font style | `Regular`, `Bold`, `Italic`, `Underline`, `Strikeout` |
-| `BubbleColor` | string | Color of answer bubbles | Any [supported color code](/omr/supported-colors/) |
+| `BubbleColor` | string | Color of answer bubbles | Any [supported color code](/omr/appendices/colors/) |
 | `BubbleSize` | string | Size of answer bubbles | `Extrasmall`, `Small`, `Normal`, `Large`, `Extralarge` |
 
 > Learning checkpoint: Which settings would you use to create a form with blue bubbles on Letter-sized paper in landscape orientation?

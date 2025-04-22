@@ -46,8 +46,6 @@ And many more specialized fonts like:
 - Segoe UI
 - Georgia
 
-For the complete list of supported fonts, refer to the [Supported Fonts documentation](/supported-fonts/).
-
 ## Step-by-Step Implementation
 
 ### 1. Setting Default Font Family for Templates
