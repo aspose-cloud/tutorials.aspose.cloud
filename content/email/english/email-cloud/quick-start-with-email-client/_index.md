@@ -557,8 +557,7 @@ To reinforce your learning:
 
 Consider exploring these related tutorials:
 - [Email Client Threads](/email-cloud/email-client-threads/) - Learn how to work with email conversation threads
-- [Email Message Files](/email-cloud/email-message-files/) - Explore how to work with email file formats
-- [Discover Email Configuration](/email-cloud/discover-email-configuration/) - Learn to automatically discover email server settings
+- [Email Message Files](/email-cloud/email-message-files/) - Explore how to work with email file formats server settings
 
 ## Helpful Resources
 

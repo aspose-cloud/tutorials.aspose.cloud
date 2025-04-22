@@ -22,7 +22,7 @@ Our tutorials follow a structured learning path, allowing you to build your know
 
 ### Basics and Setup
 
-- [Quick Start with Email Client](/email/quick-start-with-email-client/) - Create your first email client application with Aspose.Email Cloud
+- [Quick Start with Email Client](/email-cloud/quick-start-with-email-client/) - Create your first email client application with Aspose.Email Cloud
 
 ### Setup and Configuration
 
