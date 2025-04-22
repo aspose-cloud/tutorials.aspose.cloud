@@ -33,8 +33,6 @@ In this tutorial, we'll explore various techniques to modify the visual aspects 
 
 A barcode image consists of several elements, each with its own position relative to others:
 
-![Barcode Structure](barcode_view_scheme.png)
-
 The main components that we can customize include:
 - Barcode bars/modules (the actual encoded data)
 - Human-readable text (optional)
