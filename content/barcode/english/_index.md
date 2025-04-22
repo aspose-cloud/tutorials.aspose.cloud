@@ -1,7 +1,7 @@
 ---
 title: Barcode SDK Developer Guide Implementation & API Reference
 description: Comprehensive guide for developers implementing barcode generation, reading, and scanning functionality across multiple platforms and programming languages
-type: docs
+
 url: /barcode/
 weight: 20
 ---
