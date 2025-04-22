@@ -1,5 +1,5 @@
 ---
-title: Barcode SDK Developer Guide: Implementation & API Reference
+title: Barcode SDK Developer Guide Implementation & API Reference
 description: Comprehensive guide for developers implementing barcode generation, reading, and scanning functionality across multiple platforms and programming languages
 type: docs
 url: /barcode/
@@ -29,6 +29,7 @@ Our SDK supports a wide range of barcode symbologies including:
 ## BarCode Tutorials
 
 - [Generating and Saving Barcode Tutorials](/barcode/generating-saving-barcode/) - A comprehensive series of hands-on tutorials for developers to learn generating and saving barcodes using Aspose.BarCode Cloud API
+
 - [Managing and Optimizing Barcode Recognition Tutorial](/barcode/managing-and-optimizing-barcode-recognition/) - Learn step-by-step how to use Aspose.BarCode Cloud API for managing and optimizing barcode recognition in your applications with these comprehensive tutorials.
 
 
