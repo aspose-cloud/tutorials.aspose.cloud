@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Getting Started with Email Client in Aspose.Email Cloud API
+title: Getting Started with Email Client in Aspose.Email Cloud API Tutorial
 url: /email-cloud/quick-start-with-email-client/
 description: Learn how to set up and use the built-in email client in Aspose.Email Cloud API for sending, receiving, and managing emails in this step-by-step tutorial.
 weight: 30
