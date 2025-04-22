@@ -1,5 +1,5 @@
 ---
-title: Tutorial: How to Use Font Families in OMR Documents
+title: How to Use Font Families in OMR Documents Tutorial
 weight: 20
 url: /appendices/fonts/
 description: Learn to properly implement font families in your Aspose.OMR Cloud applications in this step-by-step tutorial for creating professional-looking forms.

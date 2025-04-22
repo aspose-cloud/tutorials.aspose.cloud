@@ -1,5 +1,5 @@
 ---
-title: Fine-Tuning Recognition Accuracy Tutorial
+title: Fine Tuning Recognition Accuracy Tutorial
 weight: 30
 url: /recognize-form/accuracy-threshold/
 description: Learn how to optimize OMR form recognition accuracy through threshold adjustments and element-specific settings in this practical developer tutorial.

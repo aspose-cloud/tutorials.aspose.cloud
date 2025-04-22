@@ -1,5 +1,5 @@
 ---
-title: Tutorial: How to Fetch Printable OMR Forms
+title: How to Fetch Printable OMR Forms Tutorial
 weight: 30
 url: /generate-form/fetch-printable-form/
 description: Learn how to retrieve generated printable OMR forms and recognition patterns from Aspose.OMR Cloud API in this step-by-step tutorial.

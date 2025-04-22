@@ -1,20 +1,8 @@
 ---
+title: Generating OMR Forms with Aspose.OMR Cloud SDK Tutorial
 weight: 40
-
-
 url: /generate-form/using-sdk/
-
-title: Tutorial: Generating OMR Forms with Aspose.OMR Cloud SDK
 description: Learn how to use the Aspose.OMR Cloud SDK to easily integrate form generation functionality into your applications in this step-by-step tutorial.
-keywords:
-- tutorial
-- SDK
-- generate
-- form
-- integration
-- code
-- development
-- learn
 ---
 
 # Tutorial: Generating OMR Forms with Aspose.OMR Cloud SDK
@@ -27,8 +15,6 @@ In this tutorial, you'll learn how to:
 - Include images in your forms
 - Configure form layout and appearance settings
 - Save the generated form and recognition pattern
-
-Estimated time to complete: 30 minutes
 
 ## Prerequisites
 
@@ -85,8 +71,6 @@ Next, you need to read the form source code from a file or another source:
 // Read form's source code
 byte[] source = File.ReadAllBytes("source.txt");
 ```
-
-The source code should be in the [Aspose.OMR markup language](/omr/design-form/). This example assumes you have a file named `source.txt` that contains your form's source code.
 
 ## Step 4: Include Images (If Needed)
 
