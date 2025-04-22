@@ -40,15 +40,15 @@ Master optical character recognition with our tutorials on extracting text from 
 ### [Aspose.OMR Cloud Tutorials](./omr/)
 Discover how to create and process optical mark recognition forms with our practical guides for surveys, tests, and other data collection applications.
 
-### [Aspose.BarCode Cloud Tutorials](#)
+### [Aspose.BarCode Cloud Tutorials](./barcode/)
 Learn to generate and recognize various barcode types with our comprehensive tutorials covering creation, scanning, and integration techniques for QR codes, linear barcodes, and more.
 
 ## Business Document Tutorials
 
-### [Aspose.Email Cloud Tutorials](#)
+### [Aspose.Email Cloud Tutorials](./email/)
 Master email processing with tutorials for creating, parsing, converting, and analyzing email messages and attachments programmatically via our cloud API.
 
-### [Aspose.Diagram Cloud Tutorials](#)
+### [Aspose.Diagram Cloud Tutorials](./diagram/)
 Learn to create and manipulate Visio diagrams with our practical guides covering diagram creation, shape management, conversion, and rendering.
 
 ### [Aspose.Tasks Cloud Tutorials](#)
