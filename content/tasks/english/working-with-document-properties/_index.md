@@ -52,7 +52,7 @@ For additional support as you work through these tutorials:
 - [Product Page](https://products.aspose.cloud/tasks/)
 - [Documentation](https://docs.aspose.cloud/tasks/)
 - [Live Demo](https://products.aspose.app/tasks/family)
-- [API Reference UI](https://reference.aspose.cloud/tasks/)
+- [API Reference](https://reference.aspose.cloud/tasks/)
 - [Blog](https://blog.aspose.cloud/category/tasks/)
 - [Free Support](https://forum.aspose.cloud/c/tasks/16/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

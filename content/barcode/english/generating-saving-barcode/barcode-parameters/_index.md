@@ -305,7 +305,7 @@ Ready to learn more? Continue your barcode journey with our next tutorial:
 - [Product Page](https://products.aspose.cloud/barcode/)
 - [Documentation](https://docs.aspose.cloud/barcode/)
 - [Live Demo](https://products.aspose.app/barcode/family)
-- [API Reference UI](https://reference.aspose.cloud/barcode/)
+- [API Reference](https://reference.aspose.cloud/barcode/)
 - [Blog](https://blog.aspose.cloud/category/barcode/)
 - [Free Support](https://forum.aspose.cloud/c/barcode/6/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

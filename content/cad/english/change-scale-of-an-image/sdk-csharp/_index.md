@@ -980,7 +980,7 @@ To reinforce your understanding:
 - [Product Page](https://products.aspose.cloud/cad/)
 - [Documentation](https://docs.aspose.cloud/cad/)
 - [Live Demo](https://products.aspose.app/cad/family)
-- [API Reference UI](https://reference.aspose.cloud/cad/)
+- [API Reference](https://reference.aspose.cloud/cad/)
 - [Blog](https://blog.aspose.cloud/category/cad/)
 - [Free Support](https://forum.aspose.cloud/c/cad/28/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

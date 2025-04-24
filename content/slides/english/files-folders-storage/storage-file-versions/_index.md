@@ -372,7 +372,7 @@ Now that you understand how to manage file versions, proceed to the next tutoria
 
 - [Product Page](https://products.aspose.cloud/slides/)
 - [Documentation](https://docs.aspose.cloud/slides/)
-- [API Reference UI](https://reference.aspose.cloud/slides/)
+- [API Reference](https://reference.aspose.cloud/slides/)
 - [Free Support](https://forum.aspose.cloud/c/slides/15)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)
 - [reach out to our support team](https://forum.aspose.cloud/c/slides/15)

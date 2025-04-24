@@ -344,7 +344,7 @@ Now that you know how to create sunburst charts, you might want to explore:
 
 - [Product Page](https://products.aspose.cloud/slides/)
 - [Documentation](https://docs.aspose.cloud/slides/)
-- [API Reference UI](https://reference.aspose.cloud/slides/)
+- [API Reference](https://reference.aspose.cloud/slides/)
 - [Free Support](https://forum.aspose.cloud/c/slides/15)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)
 - [support forum](https://forum.aspose.cloud/c/slides/15)

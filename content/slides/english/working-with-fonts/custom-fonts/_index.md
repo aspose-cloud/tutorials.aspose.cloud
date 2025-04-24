@@ -191,7 +191,7 @@ Now that you know how to use custom fonts, proceed to the next tutorial to learn
 - [Product Page](https://products.aspose.cloud/slides/)
 - [Documentation](https://docs.aspose.cloud/slides/)
 - [Live Demo](https://products.aspose.app/slides/family)
-- [API Reference UI](https://reference.aspose.cloud/slides/)
+- [API Reference](https://reference.aspose.cloud/slides/)
 - [Blog](https://blog.aspose.cloud/category/slides/)
 - [Free Support](https://forum.aspose.cloud/c/slides/15)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

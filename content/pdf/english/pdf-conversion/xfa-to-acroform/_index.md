@@ -442,7 +442,7 @@ Ready to explore more PDF conversion options? Check out these related tutorials:
 - [Product Page](https://products.aspose.cloud/pdf/)
 - [Documentation](https://docs.aspose.cloud/pdf/)
 - [Live Demo](https://products.aspose.app/pdf/family)
-- [API Reference UI](https://reference.aspose.cloud/pdf/)
+- [API Reference](https://reference.aspose.cloud/pdf/)
 - [Blog](https://blog.aspose.cloud/category/pdf/)
 - [Free Support](https://forum.aspose.cloud/c/pdf/13)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

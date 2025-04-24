@@ -316,7 +316,7 @@ Now that you've mastered saving results, you might want to explore other Aspose.
 - [Product Page](https://products.aspose.cloud/cells/)
 - [Documentation](https://docs.aspose.cloud/cells/)
 - [Live Demo](https://products.aspose.app/cells/family)
-- [API Reference UI](https://reference.aspose.cloud/cells/)
+- [API Reference](https://reference.aspose.cloud/cells/)
 - [Blog](https://blog.aspose.cloud/category/cells/)
 - [Free Support](https://forum.aspose.cloud/c/cells/7)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

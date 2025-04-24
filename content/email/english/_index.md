@@ -63,7 +63,7 @@ Aspose.Email Cloud can be integrated with any platform capable of making REST AP
 - [Product Page](https://products.aspose.cloud/email/)
 - [Documentation](https://docs.aspose.cloud/email/)
 - [Live Demo](https://products.aspose.app/email/family)
-- [API Reference UI](https://reference.aspose.cloud/email/)
+- [API Reference](https://reference.aspose.cloud/email/)
 - [Blog](https://blog.aspose.cloud/category/email/)
 - [Free Support](https://forum.aspose.cloud/c/email/9/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

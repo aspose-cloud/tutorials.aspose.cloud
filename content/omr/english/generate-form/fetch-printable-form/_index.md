@@ -196,7 +196,7 @@ Now that you know how to generate and fetch OMR forms, you might want to explore
 - [Product Page](https://products.aspose.cloud/omr/)
 - [Documentation](https://docs.aspose.cloud/omr/)
 - [Live Demo](https://products.aspose.app/omr/family)
-- [API Reference UI](https://reference.aspose.cloud/omr/)
+- [API Reference](https://reference.aspose.cloud/omr/)
 - [Blog](https://blog.aspose.cloud/category/omr/)
 - [Free Support](https://forum.aspose.cloud/c/omr/8/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

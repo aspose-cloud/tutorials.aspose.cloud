@@ -259,7 +259,7 @@ In this tutorial, you've learned:
 
 - [Product Page](https://products.aspose.cloud/cells/)
 - [Documentation](https://docs.aspose.cloud/cells/)
-- [API Reference UI](https://reference.aspose.cloud/cells/)
+- [API Reference](https://reference.aspose.cloud/cells/)
 - [Free Support](https://forum.aspose.cloud/c/cells/7)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)
 - [support forum](https://forum.aspose.cloud/c/cells/7)

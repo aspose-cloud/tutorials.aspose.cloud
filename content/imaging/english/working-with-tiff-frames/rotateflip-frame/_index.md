@@ -281,7 +281,7 @@ Ready to learn more advanced TIFF frame manipulation techniques? Check out our n
 - [Product Page](https://products.aspose.cloud/imaging/)
 - [Documentation](https://docs.aspose.cloud/imaging/)
 - [Live Demo](https://products.aspose.app/imaging/family)
-- [API Reference UI](https://reference.aspose.cloud/imaging/)
+- [API Reference](https://reference.aspose.cloud/imaging/)
 - [Blog](https://blog.aspose.cloud/category/imaging/)
 - [Free Support](https://forum.aspose.cloud/c/imaging/10)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

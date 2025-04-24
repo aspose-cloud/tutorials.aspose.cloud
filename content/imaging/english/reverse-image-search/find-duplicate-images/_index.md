@@ -296,6 +296,6 @@ To reinforce what you've learned:
 
 - [Product Page](https://products.aspose.cloud/imaging/)
 - [Documentation](https://docs.aspose.cloud/imaging/)
-- [API Reference UI](https://reference.aspose.cloud/imaging/)
+- [API Reference](https://reference.aspose.cloud/imaging/)
 - [Free Support](https://forum.aspose.cloud/c/imaging/10/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

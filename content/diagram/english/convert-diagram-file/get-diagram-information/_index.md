@@ -277,7 +277,7 @@ Now that you understand how to retrieve diagram information, you're ready to mov
 
 - [Product Page](https://products.aspose.cloud/diagram/)
 - [Documentation](https://docs.aspose.cloud/diagram/)
-- [API Reference UI](https://reference.aspose.cloud/diagram/)
+- [API Reference](https://reference.aspose.cloud/diagram/)
 - [Free Support](https://forum.aspose.cloud/c/diagram/27/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)
 

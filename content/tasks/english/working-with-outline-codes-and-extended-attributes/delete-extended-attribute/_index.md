@@ -210,7 +210,7 @@ Ready to learn more? Continue to the next tutorial: [How to Add a New Extended A
 
 - [Product Page](https://products.aspose.cloud/tasks/)
 - [Documentation](https://docs.aspose.cloud/tasks/)
-- [API Reference UI](https://reference.aspose.cloud/tasks/)
+- [API Reference](https://reference.aspose.cloud/tasks/)
 - [Free Support](https://forum.aspose.cloud/c/tasks/16/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)
 

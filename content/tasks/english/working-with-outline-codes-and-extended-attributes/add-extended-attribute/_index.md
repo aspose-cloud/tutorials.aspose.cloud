@@ -353,7 +353,7 @@ Consider exploring other Aspose.Tasks Cloud API features or developing a complet
 
 - [Product Page](https://products.aspose.cloud/tasks/)
 - [Documentation](https://docs.aspose.cloud/tasks/)
-- [API Reference UI](https://reference.aspose.cloud/tasks/)
+- [API Reference](https://reference.aspose.cloud/tasks/)
 - [Free Support](https://forum.aspose.cloud/c/tasks/16/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)
 

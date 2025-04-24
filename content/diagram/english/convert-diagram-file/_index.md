@@ -70,7 +70,7 @@ We strongly encourage you to follow along with each tutorial by implementing the
 - [Product Page](https://products.aspose.cloud/diagram/)
 - [Documentation](https://docs.aspose.cloud/diagram/)
 - [Live Demo](https://products.aspose.app/diagram/family)
-- [API Reference UI](https://reference.aspose.cloud/diagram/)
+- [API Reference](https://reference.aspose.cloud/diagram/)
 - [Blog](https://blog.aspose.cloud/category/diagram/)
 - [Free Support](https://forum.aspose.cloud/c/diagram/27/)
 - [Free Trial](https://dashboard.aspose.cloud/#/apps)

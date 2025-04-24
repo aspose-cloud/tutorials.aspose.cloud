@@ -478,12 +478,12 @@ Now that you understand the available labels, you can build more sophisticated a
 
 ## Helpful Resources
 
-[Product Page](https://products.aspose.cloud/imaging/)
-[Documentation](https://docs.aspose.cloud/imaging/)
-[Live Demo](https://products.aspose.app/imaging/family)
-[API Reference UI](https://reference.aspose.cloud/imaging/)
-[Blog](https://blog.aspose.cloud/category/imaging/)
-[Free Support](https://forum.aspose.cloud/c/imaging/10/)
-[Free Trial](https://dashboard.aspose.cloud/#/apps)
+- [Product Page](https://products.aspose.cloud/imaging/)
+- [Documentation](https://docs.aspose.cloud/imaging/)
+- [Live Demo](https://products.aspose.app/imaging/family)
+- [API Reference](https://reference.aspose.cloud/imaging/)
+- [Blog](https://blog.aspose.cloud/category/imaging/)
+- [Free Support](https://forum.aspose.cloud/c/imaging/10/)
+- [Free Trial](https://dashboard.aspose.cloud/#/apps)
 
 Have questions about object detection labels? We're here to help! Reach out on our [support forum](https://forum.aspose.cloud/c/imaging/10/) with any questions about implementing label-specific object detection in your applications.
