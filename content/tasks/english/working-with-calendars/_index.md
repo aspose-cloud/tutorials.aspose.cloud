@@ -1,5 +1,5 @@
 ---
-title: Aspose.Tasks Cloud API Tutorial: Working with Calendars
+title: Aspose.Tasks Cloud API Working with Calendars Tutorial
 description: Learn to use Aspose.Tasks Cloud API with these hands-on tutorials for managing project calendars in MPP, MPT and XML formats across multiple programming languages.
 url: /working-with-calendars/
 weight: 40
