@@ -49,19 +49,7 @@ Before deleting, you need to identify which exception to remove. You can use the
 2. Note the index of the exception you want to delete
 3. Confirm that this is indeed the exception you want to remove
 
-### Step 2: Prepare Your API Request
-
-To delete a calendar exception, you'll use the DELETE method on the following endpoint:
-
-
-DELETE https://api.aspose.cloud/v3.0/tasks/{name}
-
-Where:
-- `{name}` is your project file name (with extension)
-- `{calendarUid}` is the unique identifier of the calendar
-- `{index}` is the position of the exception in the collection
-
-### Step 3: Make the API Request
+### Step 2: Make the API Request
 
 Let's see how to make this request using cURL:
 
@@ -73,7 +61,7 @@ curl -X DELETE "https://api.aspose.cloud/v3.0/tasks/Home%20move%20plan.mpp/calen
 
 Replace `YOUR_ACCESS_TOKEN` with the token obtained through authentication.
 
-### Step 4: Process the Response
+### Step 3: Process the Response
 
 When successful, the API returns a JSON response with a success status:
 
@@ -84,7 +72,7 @@ When successful, the API returns a JSON response with a success status:
 }
 ```
 
-### Step 5: Implement in Your Application
+### Step 4: Implement in Your Application
 
 Now let's implement this functionality using different programming languages.
 
