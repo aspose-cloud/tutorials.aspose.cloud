@@ -1,11 +1,11 @@
 ---
-title: Comprehensive OCR Developer's Reference Guide
+title: Comprehensive Aspose.OCR Cloud API Reference Tutorials
 weight: 30
 url: /ocr/
-description: Complete developer documentation for Aspose.OCR Cloud API - learn implementation details, code examples, and best practices for text recognition in your applications.
+description: Complete step-by-step tutorials for Aspose.OCR Cloud API — learn implementation details, code examples, and best practices for text recognition in your applications.
 ---
 
-# Developer's Reference for Aspose.OCR Cloud
+# Comprehensive Aspose.OCR Cloud API Reference Tutorials
 
 This comprehensive reference is designed to help developers effectively implement and leverage the powerful text recognition capabilities of Aspose.OCR Cloud in their applications. Whether you're building a document management system, automating data entry, or creating innovative OCR-powered features, this guide provides all the technical details you need.
 

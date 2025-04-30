@@ -1,18 +1,15 @@
 ---
-title: Comprehensive Spreadsheet REST API Developer Guide Tutorials
+title: Comprehensive Aspose.Cells Cloud REST API Tutorials
 description: Comprehensive guide to Aspose.Cells Cloud REST APIs with tutorials, examples, and best practices for Excel file processing across all formats and versions.
-
 url: /cells/
 weight: 20
 ---
 
-# Spreadsheet REST API Developer Guide
+# Comprehensive Aspose.Cells Cloud REST API Tutorials
 
-Welcome to the comprehensive developer guide for working with Spreadsheet worksheets through our REST API. This guide provides all the information you need to integrate, manipulate, and manage Spreadsheet worksheets programmatically in your applications.
+Welcome to the comprehensive tutorials for working with Spreadsheet worksheets through our REST API. These tutorials provide all the information you need to integrate, manipulate, and manage Spreadsheet worksheets programmatically in your applications.
 
 ## What You'll Learn
-
-This developer guide covers:
 
 - Authentication & Authorization: How to securely connect to the Spreadsheet REST API
 - Core Concepts: Understanding the fundamental architecture and objects

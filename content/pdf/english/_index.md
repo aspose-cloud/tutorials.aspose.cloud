@@ -1,13 +1,13 @@
 ---
-title: Comprehensive PDF Development Guide
+title: Comprehensive PDF Tutorials
 url: /pdf/
 weight: 20
 description: Complete guide to PDF manipulation, conversion, and advanced document processing learn how to create, modify, secure, and extract data from PDF documents with practical examples and solutions.
 ---
 
-# PDF Developer Guide
+# Comprehensive PDF Tutorials
 
-Welcome to the comprehensive PDF Developer Guide. This resource provides in-depth tutorials, examples, and solutions for working with PDF documents across a wide range of use cases. Whether you're creating new PDFs, converting between formats, or manipulating existing documents, you'll find step-by-step instructions for both simple tasks and complex operations.
+Welcome to the comprehensive PDF tutorials. This resource provides in-depth examples and solutions for working with PDF documents across a wide range of use cases. Whether you're creating new PDFs, converting between formats, or manipulating existing documents, you'll find step-by-step instructions for both simple tasks and complex operations.
 
 ## Getting Started with PDF Documents
 

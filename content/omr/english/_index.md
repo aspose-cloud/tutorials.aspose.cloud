@@ -1,13 +1,13 @@
 ---
-title: Comprehensive Developer's Guide for Aspose.OMR Cloud
+title: Comprehensive Tutorials for Aspose.OMR Cloud
 weight: 30
 url: /omr/
 description: Complete API reference and implementation guide for Aspose.OMR Cloud learn how to design, process, and analyze OMR forms with step-by-step tutorials and code examples.
 ---
 
-# Aspose.OMR Cloud Developer's Reference
+# Aspose.OMR Cloud Tutorials
 
-Welcome to the comprehensive developer's reference for Aspose.OMR Cloud. This guide will equip you with all the knowledge and tools needed to implement powerful Optical Mark Recognition solutions in your applications.
+Welcome to the comprehensive reference for Aspose.OMR Cloud. This tutorials will equip you with all the knowledge and tools needed to implement powerful Optical Mark Recognition solutions in your applications.
 
 ## Getting Started
 

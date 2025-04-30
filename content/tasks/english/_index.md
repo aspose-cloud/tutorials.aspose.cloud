@@ -1,13 +1,13 @@
 ---
-title: Comprehensive Developer Guide | Getting Started with Our Platform
-description: Complete resource for developers working with our platform. Learn implementation best practices, API integration, troubleshooting tips, and advanced features.
+title: Getting Started with Aspose.Tasks Cloud | Complete Integration Tutorials
+description: xplore step-by-step tutorials to integrate and work with Aspose.Tasks Cloud API. Learn how to manage assignments, calendars, document properties, and more.
 url: /tasks/
 weight: 20
 ---
 
-# Developer Guide
+# Complete Integration Tutorials
 
-Welcome to the Developer Guide for our platform. This comprehensive resource is designed to help you implement, integrate, and optimize our solutions for your specific needs.
+Welcome to our platform. This comprehensive resource is designed to help you implement, integrate, and optimize our solutions for your specific needs.
 
 ## Getting Started
 

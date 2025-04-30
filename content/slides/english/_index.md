@@ -1,13 +1,13 @@
 ---
-title: Comprehensive PowerPoint API Developer Guide
-description: Complete guide for developers working with PowerPoint presentation REST API - implementation tutorials, code examples, best practices, and troubleshooting
+title: Comprehensive PowerPoint REST API Integration Tutorials
+description: Explore step-by-step PowerPoint REST API tutorials with real-world examples to create, edit, and manage presentations in the cloud.
 url: /slides/
 weight: 20
 ---
 
-# PowerPoint API Developer Guide
+# Comprehensive PowerPoint REST API Integration Tutorials
 
-Welcome to the comprehensive developer guide for the PowerPoint API. This documentation provides everything you need to successfully integrate and leverage our PowerPoint REST API in your applications.
+Welcome to the comprehensive tutorials for the PowerPoint API. This documentation provides everything you need to successfully integrate and leverage our PowerPoint REST API in your applications.
 
 ## Getting Started
 

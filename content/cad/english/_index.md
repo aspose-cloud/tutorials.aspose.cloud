@@ -1,13 +1,13 @@
 ---
-title: Comprehensive Developer Guide
-description: Complete documentation for developers building with our CAD platform - from getting started to advanced customization
+title: Comprehensive CAD Cloud Tutorials
+description: Step-by-step tutorials for building with our CAD platform – from getting started to advanced customization
 url: /cad/
 weight: 20
 ---
 
-# Developer Guide
+# Comprehensive CAD Cloud Tutorials
 
-Welcome to our comprehensive developer guide! This documentation is designed to help you utilize our CAD platform effectively, whether you're just getting started or looking to implement advanced features.
+Welcome to our comprehensive tutorials! These step-by-step guides are designed to help you make the most of our CAD platform—whether you're just getting started or diving into advanced features.
 
 ## Getting Started
 
