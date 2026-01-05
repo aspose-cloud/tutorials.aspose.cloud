@@ -1,0 +1,100 @@
+# Master workflow to trigger all production workflows
+
+name: All Production Workflows
+
+# Controls when the action will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/**'
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  trigger-all-production:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger home-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: home-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger barcode-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: barcode-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cad-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: cad-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cells-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: cells-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger diagram-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: diagram-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger email-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: email-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger imaging-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: imaging-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger ocr-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: ocr-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger omr-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: omr-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger pdf-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: pdf-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger slides-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: slides-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tasks-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: tasks-production.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger words-production
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: words-production.yml
+          token: ${{ secrets.REPO_TOKEN }}

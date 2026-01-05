@@ -1,0 +1,100 @@
+# Master workflow to trigger all staging workflows
+
+name: All Staging Workflows
+
+# Controls when the action will run
+on:
+  # Triggers the workflow on push or pull request events but only for the staging branch
+  push:
+    branches: [ staging ]
+    paths:
+      - 'content/**'
+  pull_request:
+    branches: [ staging ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  trigger-all-staging:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger home-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: home-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger barcode-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: barcode-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cad-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: cad-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger cells-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: cells-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger diagram-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: diagram-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger email-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: email-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger imaging-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: imaging-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger ocr-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: ocr-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger omr-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: omr-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger pdf-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: pdf-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger slides-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: slides-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger tasks-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: tasks-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Trigger words-staging
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: words-staging.yml
+          token: ${{ secrets.REPO_TOKEN }}
